@@ -1,0 +1,18 @@
+!Distributed under the terms of the GNU General Public License version 2
+! or any later version.
+
+LEXICON Numerals
+zero num ; !zero
+unu num ; !one
+doi num ; !two
+trei num ; !three
+patru num ; !four
+cinci num ; !five
+şase num ; !six
+şapte num ; !seven
+opt num ; !eight
+nouă num ; !nine
+zece num ; !ten
+
+LEXICON num
++Num: # ;

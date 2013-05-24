@@ -1,0 +1,21 @@
+! possible cases of spellrelax:
+! turkish2romanian
+ș (->) ş, 
+ț (->) ţ, 
+Ș (->) Ş, 
+Ț (->) Ţ, 
+! ascii only to romanian
+s (->) ş, 
+t (->) ţ,
+S (->) Ş, 
+T (->) Ţ, 
+a (->) â,
+A (->) Â,
+a (->) ă,
+A (->) Ă,
+i (->) î,
+I (->) Î,
+! good old orthography to new one
+î (->) â,
+i (->) â
+;

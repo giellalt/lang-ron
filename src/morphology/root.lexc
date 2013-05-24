@@ -1,0 +1,58 @@
+! Divvun & Giellatekno - open source grammars for Sámi and other languages
+! Copyright © 2000-2010 The University of Tromsø & the Norwegian Sámi Parliament
+! http://giellatekno.uit.no & http://divvun.no
+!
+! This program is free software ; you can redistribute and/or modify
+! this file under the terms of the GNU General Public License as published by
+! the Free Software Foundation, either version 3 of the License, or
+! (at your option) any later version. The GNU General Public License
+! is found at http://www.gnu.org/licenses/gpl.html. It is
+! also available in the file $GTHOME/LICENSE.txt.
+!
+! Other licensing options are available upon request, please contact
+! giellatekno@hum.uit.no or divvun@samediggi.no
+
+! ========================================================================== !
+! !!               !!!Rumenian morphological analyser
+! ========================================================================== !
+ 
+
+Multichar_Symbols  !!≈ !!!@CODE@ definitions
+
+                                           !!  !!Tags for POS
+
++N +V +A                               !!≈ ; @CODE@ : Open POS's
++Adv +CC +CS +Interj +Pron +Num         !!≈ ; @CODE@ : Open POS's
+
+!! !!Verbal MSP
++Prs +Prt +Prf 				     !!≈ ; @CODE@
++Ind +Imp +Conj +Opt +Sbj	     !!≈ ; @CODE@
++Sg1 +Sg2 +Sg3 +Pl1 +Pl2 +Pl3    !!≈ ; @CODE@
++Inf						     !!≈ ; @CODE@
+
+
+!! !!Nominal MSP
++Msc +Fem +Neu	     !!≈ ; @CODE@
++Sg +Pl +Def +ef     !!≈ ; @CODE@
++Nom +Gen +Voc	     !!≈ ; @CODE@
++Dem +Pers		     !!≈ ; @CODE@
++Adc +Ord		     !!≈ ; @CODE@
++Indef +Def		     !!≈ ; @CODE@
+
+%>			         !!≈ ; @CODE@
+%^AA %^EA %^OA       !!≈ ; @CODE@
+
+
+LEXICON Root
+ NounRoot ;
+ AdjRoot ;
+ VerbRoot ;
+ AdvRoot ;
+ Pronouns ;
+ Numerals ;
+ Prepositions ;
+ Determinatives ;
+ Punctuation ;
+
+
+

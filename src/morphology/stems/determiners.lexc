@@ -1,0 +1,28 @@
+!Distributed under the terms of the GNU General Public License version 2
+! or any later version.
+
+LEXICON Determinatives
+acesta mndet ; ! only on the left of noun: băiatul acesta (*acesta băiatul) (this boy)
+aceasta fdet ; ! dito: fata aceasta (*aceasta fata) (this girl)
+acest mndet ; ! only on the right of noun: acest băiat (*băiat acest/*băiatul acest) (this boy)  
+această fdet ; ! dito: această fată (this girl)
+un mndet ;
+o fdet ;
+al mndet ;
+a mndet ;
+ai mndetpl ;
+ale fdetpl ;
+
+LEXICON mndet
++Det+Msc: # ;
++Det+Neu: # ;
+
+LEXICON fdet
++Det+Fem: # ;
+
+LEXICON mndetpl
++Det+Msc+Pl: # ;
++Det+Neu+Pl: # ;
+
+LEXICON fdetpl
++Det+Fem+Pl: # ;
