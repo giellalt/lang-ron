@@ -1,0 +1,373 @@
+! Divvun & Giellatekno - open source grammars for Sámi and other languages
+! Copyright © 2000-2010 The University of Tromsø & the Norwegian Sámi Parliament
+! http://giellatekno.uit.no & http://divvun.no
+!
+! This program is free software; you can redistribute and/or modify
+! this file under the terms of the GNU General Public License as published by
+! the Free Software Foundation, either version 3 of the License, or
+! (at your option) any later version. The GNU General Public License
+! is found at http://www.gnu.org/licenses/gpl.html. It is
+! also available in the file $GTHOME/LICENSE.txt.
+!
+! Other licensing options are available upon request, please contact
+! giellatekno@hum.uit.no or divvun@samediggi.no
+
+! ========================================================================== !
+!                      Rumanian morphological analyser                      
+! ========================================================================== !
+
+
+! ======================
+!! !!!Sublexica for Verb
+! ======================
+
+
+
+! Sone 2c: Konjugasjonsklassane
+! ============================
+
+
+! Første konjugasjon
+! ------------------
+
+LEXICON v
+Conj1a ;
+
+LEXICON Conj1a
++V: Inf1 ;
++V+Prs: Sg1Prs ;
++V+Prs: Sg2Prs_i ;
++V+Prs: Sg3Prs_a ;
++V+Prs: Pl1Prs_am ;
++V+Prs: Pl2Prs_ati ;
++V+Prs: Pl3Prs_a ;
+
+LEXICON Conj1b
++V: Inf1 ;
++V+Prs: Sg1Prs_u ;
++V+Prs: Sg2Prs_i ;
++V+Prs: Sg3Prs_a ;
++V+Prs: Pl1Prs_am ;
++V+Prs: Pl2Prs_ati ;
++V+Prs: Pl3Prs_a ;
+
+LEXICON Conj1c
++V: Inf1 ;
++V+Prs: Sg1Prs_i ;
++V+Prs: Sg2Prs_i ;
++V+Prs: Sg3Prs_e ;
++V+Prs: Pl1Prs_em ;
++V+Prs: Pl2Prs_ati ;
++V+Prs: Pl3Prs_e ;
+
+LEXICON Conj1d
++V: Inf1 ;
++V+Prs: Sg1Prs_ez ;
++V+Prs: Sg2Prs_ezi ;
++V+Prs: Sg3Prs_eaza ;
++V+Prs: Pl1Prs_am ;
++V+Prs: Pl2Prs_ati ;
++V+Prs: Pl3Prs_eaza ;
+
+
+
+! Andre konjugasjon
+! -----------------
+
+LEXICON Conj2a
++V: Inf2 ;		     !vedea
++V+Prs:%^EA Sg1Prs ;	 !văd
++V+Prs:    Sg2Prs_i ;	 !vezi
++V+Prs:    Sg3Prs_e ;	 !vede
++V+Prs:    Pl1Prs_em ;	 !vedem
++V+Prs:    Pl2Prs_eti ;  !vedeți
++V+Prs:%^EA Pl3Prs ;	 !văd
+! define ea e -> ă || _ Cns* %^EA ;
+
+LEXICON Conj2b
++V: Inf2 ;		         !tăcea
++V+Prs:%^AA Sg1Prs ;	     !tac
++V+Prs:%^AA Sg2Prs_i ;	     !taci
++V+Prs:%^AA Sg3Prs_e ;	     !tace
++V+Prs:     Pl1Prs_em ;	     !tăcem
++V+Prs:     Pl2Prs_eti ;     !tăceți
++V+Prs:%^AA Pl3Prs ;	     !tac
+! define aa ă -> a || _ Cns* %^AA ;
+
+
+! Tredje konjugasjon
+! ------------------
+
+LEXICON Conj3
++V: Inf3 ;
++V+Prs: Sg1Prs ;
++V+Prs: Sg2Prs_i ;
++V+Prs: Sg3Prs_e ;
++V+Prs: Pl1Prs_em ;
++V+Prs: Pl2Prs_eti ;
++V+Prs: Pl3Prs ;
+
+
+! Fjerde konjugasjon
+! ------------------
+
+LEXICON Conj4a
++V: Inf4 ;       !dormi
++V+Prs: Sg1Prs ;	  !dorm
++V+Prs: Sg2Prs_i ;	  !dormi
++V+Prs:%^OA Sg3Prs_e ;!doarme ! multichar symbol som gir o -> oa
++V+Prs: Pl1Prs_im ;	  !dormim
++V+Prs: Pl2Prs_iți ;  !dormiți
++V+Prs: Pl3Prs ;	  !dorm
+! define oa o -> o a || _ Cns* %^OA ; (regel i xfst)
+
+LEXICON Conj4b
++V: Inf4 ;       !dormi
++V+Prs: Sg1Prs_esc ;
++V+Prs: Sg2Prs_ești ;
++V+Prs: Sg3Prs_ește ;
++V+Prs: Pl1Prs_im ;
++V+Prs: Pl2Prs_iți ;
++V+Prs: Pl3Prs_esc ;
+
+LEXICON Conj4c
++V: Inf4 ;       !dormi
++V+Prs: Sg1Prs ;
++V+Prs: Sg2Prs_i ;
++V+Prs:%^OA Sg3Prs_a ;
++V+Prs: Pl1Prs_im ;
++V+Prs: Pl2Prs_iți ;
++V+Prs: Pl3Prs_a ;
+
+LEXICON Conj4d
++V: Inf4 ;       !dormi
++V+Prs: Sg1Prs_ăsc;
++V+Prs: Sg2Prs_ăsti;
++V+Prs: Sg3Prs_ăste ;
++V+Prs: Pl1Prs_im ;
++V+Prs: Pl2Prs_iți ;
++V+Prs: Pl3Prs_ăsc ;
+
+
+! Femte konjugasjon
+! -----------------
+
+!LEXICON Conj5
+!+V+Inf:%>a # ;
+!+V+Prs: Sg1Prs;
+!+V+Prs: Sg2Prs_i;
+!+V+Prs: %^OA Sg3Prs_ă ;
+!+V+Prs: Pl1Prs_im ;
+!+V+Prs: Pl2Prs_iți ;
+!+V+Prs: Pl3Prs_ă ;
+
+
+
+! Uregelrette
+! -----------
+
+LEXICON Fi
++Inf:fi # ;
+
++Ind+Prs+Sg1:sunt # ;
++Ind+Prs+Sg2:ești # ;
++Ind+Prs+Sg3:este # ;
++Ind+Prs+Sg3:e # ;
++Ind+Prs+Pl1:suntem # ;
++Ind+Prs+Pl2:sunteți # ;
++Ind+Prs+Pl3:sunt # ;
+
++Ind+Prt+Sg1:eram # ;
++Ind+Prt+Sg2:erai # ;
++Ind+Prt+Sg3:era # ;
++Ind+Prt+Pl1:eram # ;
++Ind+Prt+Pl2:erați # ;
++Ind+Prt+Pl3:erau # ;
+
++Ind+Plu+Sg1:fusesem # ;
++Ind+Plu+Sg2:fuseseși # ;
++Ind+Plu+Sg3:fusese # ;
++Ind+Plu+Pl1:fusesem # ;
++Ind+Plu+Pl2:fuseseți # ;
++Ind+Plu+Pl3:fuseseră # ;
+
++Sbj+Prs+Sg1:fiu # ;
++Sbj+Prs+Sg2:fii # ;
++Sbj+Prs+Sg3:fie # ;
++Sbj+Prs+Pl1:fim # ;
++Sbj+Prs+Pl2:fiți # ;
++Sbj+Prs+Pl3:fie # ;
+
++Ptc+Msc+Sg:fost # ;
++Ptc+Fem+Sg:fostă # ;
++Ptc+Neu+Sg:fost # ;
++Ptc+Msc+Pl:fosti # ;
++Ptc+Fem+Pl:foste # ;
++Ptc+Neu+Pl:foste # ;
+
+
+LEXICON Avea
+ InfAvea ;       !avea
++Prs: Sg1Prs_m;
++Prs: Sg2Prs_i;
++Prs: Sg3Prs_re ;
++Prs: Pl1Prs_vem ;
++Prs: Pl2Prs_veți ;
++Prs: Pl3Prs_u ;
+
+
+
+! Sone 3: Bøying
+! ==============
+
+! Infinitte former
+! ----------------
+
+LEXICON Inf1
++Inf:%>a # ;
+
+LEXICON Inf2
++Inf:%>ea # ;
+
+LEXICON Inf3
++Inf:%>e # ;
+
+LEXICON Inf4
++Inf:%>i # ; 
+
+LEXICON InfAvea
++Inf:%>vea # ; 
+
+! Presensformer
+! -------------
+
+LEXICON Sg1Prs
++Sg1: # ;
+
+LEXICON Sg2Prs_i
++Sg2:%>i # ;
+
+
+LEXICON Sg3Prs_a
++Sg3:%>ă # ;
+
+LEXICON Pl1Prs_am
++Pl1:%>ăm # ;
+
+LEXICON Pl2Prs_ati
++Pl2:%>ați # ;
+
+
+LEXICON Pl3Prs_ă
++Pl3:%>ă # ;
+
+LEXICON Sg1Prs_u
++Sg1:%>u # ;
+
+LEXICON Sg1Prs_i
++Sg1:%>i # ;
+
+LEXICON Sg3Prs_e
++Sg3:%>e # ;
+
+LEXICON Pl1Prs_em
++Pl1:%>em # ;
+
+LEXICON Pl3Prs_e
++Pl3:%>e # ;
+
+LEXICON Sg1Prs_ez
++Sg1:%>ez # ;
+
+LEXICON Sg2Prs_ezi
++Sg2:%>ezi # ;
+
+LEXICON Sg3Prs_eaza
++Sg3:%>eăză # ;
+
+LEXICON Pl3Prs_eaza
++Pl3:%>ează # ;
+
+LEXICON Pl2Prs_eți
++Pl3:%>eți # ;
+
+LEXICON Pl3Prs
++Pl3: # ;
+
+LEXICON Pl1Prs_im
++Pl1:%im # ;	
+
+LEXICON Pl1Prs_Im
++Pl1:%îm # ;
+
+LEXICON Pl2Prs_iți
++Pl2:%iți # ;
+
+LEXICON Sg1Prs_esc
++Sg1:%>esc # ;
+
+LEXICON Sg2Prs_ești
++Sg2:%>ești # ;
+
+LEXICON Sg3Prs_ește
++Sg3:%>ește # ;
+
+LEXICON Pl3Prs_esc
++Pl3:%>esc # ;
+
+LEXICON Pl3Prs_a
++Pl3:%>a # ;
+
+LEXICON Sg1Prs_ăsc
++Prs:%>ăsc # ;
+
+LEXICON Sg2Prs_ăsti
++Prs:%>ăsti # ;
+
+LEXICON Sg3Prs_ăste
++Prs:%>ăste # ;
+
+LEXICON Pl3Prs_ăsc
++Prs:%>ăsc # ;
+
+LEXICON Pl2Prs_eti
++Pl2:%>eti # ;
+
+LEXICON Pl3Prs_u
++Pl3:%>u # ;
+
+LEXICON Pl2Prs_veți
++Pl2:%>veți # ;
+
+LEXICON Pl1Prs_vem
++Pl1:%>vem # ;
+
+LEXICON Sg3Prs_re
++Sg3:%>re # ;
+
+LEXICON Sg1Prs_m
++Sg1:%> # ;
+
+LEXICON Pl3Prs_t
++Pl3:%>t # ;
+
+LEXICON Pl2Prs_teți
++Pl2:%>teti # ;
+
+LEXICON Pl1Prs_tem
++Pl1:%>tem # ;
+
+LEXICON Sg1Prs_t
++Sg1:%>t # ;
+
+LEXICON Sg3Prs_te
++Sg3:%>te # ;
+
+LEXICON Sg2Prs_ti
++Sg2:%>ti # ;
+
+!LEXICON Pl2Prs_eți
+!+Pl2:%>eți # ;
+
+!LEXICON Pl1Prs_Im	
+!+Pl1:%>îm # ;
