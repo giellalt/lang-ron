@@ -1,0 +1,1022 @@
+!Distributed under the terms of the GNU General Public License version 2
+! or any later version.
+
+
+LEXICON NounRoot
+
+podea f "floor" ;  !f
+perdea f "curtain" ;  !f
+cafea f "coffee" ;  !f
+catifea f "velvet" ;  !f
+bretea f "strap" ;  !f
+stea f "star" ;  !f
+rețea f "net" ;  !f
+balama f "hinge" ;  !f
+cinema n_uri "cinema" ;  !n
+manta f "cloak" ;  !f
+porumb m "corn" ;  !m
+cerb m "stag" ;  !m
+proverb n_e "proverb" ;  !n proverbe usual form
+proverb n_uri "proverb" ;  !n proverburi quite seldom (I wouldn't say so)
+proverb m "proverb" ;  !m proverbi seldom (cf. deu: der,die,das Bonbon)
+corb m "raven" ;  !m
+șurub n_uri "screw" ;  !n
+stomac n_uri "stomach" ;  !n
+copac m "tree" ;  !m
+drac m "devil" ;  !m
+atac n_uri "charge" ;  !n
+farmec n_e "charm" ;  !n farmece
+amestec n_uri "jumble" ;  !n
+picnic n_uri "picnic" ;  !n
+războinic m "warrior" ;  !m
+polonic n_e "dipper" ;  !n polonice
+pustnic m "hermit" ;  !m
+bunic m "grandfather" ;  !m
+ibric n_e "kettle" ;  !n ibrice
+ostatic m "hostage" ;  !m
+foc n_uri "fire" ;  !n
+joc n_uri "game" ;  !n
+loc n_uri "place" ;  !n
+noroc n_e "luck" ;  !n noroace
+parc n_uri "park" ;  !n
+porc m "pig" ;  !m
+mosc m "musk" ;  !m (pl. moști) the animal (un mosc :: doi moști)
+mosc n_uri "musk" ;  !n (pl. moscuri) the smelly substance (un mosc :: două moscuri)
+cuc m "cuckoo" ;  !m
+suc n_uri "juice" ;  !n
+butuc m "stump" ;  !m
+iad n_uri "hell" ;  !n
+brad m "fir" ;  !m
+răsad n_uri "seedling" ;  !n
+șold n_uri "hip" ;  !n
+vagabond m "vagabond" ;  !m
+gând n_uri "thought" ;  !n
+rând n_uri "turn" ;  !n
+coadă f "tail" ;  !f cozi
+cod m "haddock" ;  !m cozi
+cod n_uri "code" ;  !m coduri
+pod n_uri "bridge" ;  !n
+stindard n_uri "banner" ;  !n stindarduri
+stindard n_e "banner" ;  !n stindarde
+pace f "peace" ;  !f păci a->ă
+șoarece m "mouse" ;  !m
+voce f "voice" ;  !f
+cruce f "cross" ;  !f
+idee f "idea" ;  !f
+moschee f "mosque" ;  !f
+lege f "law" ;  !f
+rege m "king" ;  !m
+minge f "ball" ;  !f
+sânge n_uri "blood" ;  !n sângiuri (iuri!)
+ureche f "ear" ;  !f
+potârniche f "partridge" ;  !f
+oaie f "sheep" ;  !f
+ploaie f "rain" ;  !f
+bătaie f "fight" ;  !f
+bărbie f "chin" ;  !f
+specie f "species" ;  !f
+căsnicie f "marriage" ;  !f
+provincie f "province" ;  !f
+boală f "disease" ;  !f
+maladie f "disease" ;  !f
+medie f "average" ;  !f
+drojdie f "dregs" ;  !f
+rodie f "pomegranate" ;  !f
+discordie f "contention" ;  !f
+cheie f "key" ;  !f
+femeie f "woman" ;  !f
+scânteie f "spark" ;  !f
+gălăgie f "uproar" ;  !f
+rochie f "dress" ;  !f
+familie f "family" ;  !f
+ciocârlie f "lark" ;  !f
+companie f "company" ;  !f
+zgârcenie f "parsimony" ;  !f
+viclenie f "cunning" ;  !f
+prietenie f "friendship" ;  !f
+linie f "line" ;  !f
+armonie f "harmony" ;  !f
+nebunie f "insanity" ;  !f
+mânie f "anger" ;  !f
+nevoie f "need" ;  !f
+copie f "copy" ;  !f
+pledoarie f "plea" ;  !f
+perie f "brush" ;  !f
+bijuterie f "jewel" ;  !f
+mizerie f "filth" ;  !f
+teorie f "theory" ;  !f
+memorie f "memory" ;  !f
+datorie f "debt" ;  !f
+istorie f "history" ;  !f
+călătorie f "voyage" ;  !f
+bucurie f "joy" ;  !f
+furie f "rage" ;  !f
+farfurie f "dish" ;  !f
+murdărie f "filthiness" ;  !f
+pălărie f "hat" ;  !f
+bucătărie f "kitchen" ;  !f
+impresie f "impression" ;  !f
+expresie f "phrase" ;  !f
+hârtie f "paper" ;  !f
+trestie f "reed" ;  !f
+prostie f "nonsense" ;  !f
+cutie f "box" ;  !f
+ardezie f "slate" ;  !f
+poezie f "poem" ;  !f
+aluzie f "hint" ;  !f
+lămâie f "lemon" ;  !f
+explicație f "explanation" ;  !f
+ambarcație f "boat" ;  !f
+inundație f "flood" ;  !f
+asociație f "partnership" ;  !f
+ocupație f "occupation" ;  !f
+migrație f "migration" ;  !f
+disgrație f "disgrace" ;  !f
+admirație f "admiration" ;  !f
+transpirație f "perspiration" ;  !f
+conspirație f "conspiracy" ;  !f
+conversație f "conversation" ;  !f
+ostentație f "ostentation" ;  !f
+stație f "station" ;  !f
+autorizație f "permission" ;  !f
+acuzație f "accusation" ;  !f
+lecție f "lesson" ;  !f
+colecție f "collection" ;  !f
+direcție f "direction" ;  !f
+beție f "drunkenness" ;  !f
+audiție f "hearing" ;  !f
+apariție f "appearance" ;  !f
+justiție f "justice" ;  !f
+garanție f "guarantee" ;  !f
+atenție f "attention" ;  !f
+soție f "wife" ;  !f
+porție f "portion" ;  !f speaking of meal/ration
+precauție f "caution" ;  !f
+rezoluție f "resolution" ;  !f
+cale f "path" ;  !f căli a->ă
+piele f "skin" ;  !f
+foame f "hunger" ;  !f
+vreme f "weather" ;  !f
+grosime f "thickness" ;  !f
+netezime f "flatness" ;  !f
+prospețime f "freshness" ;  !f
+mulțime f "crowd" ;  !f
+înălțime f "height" ;  !f
+lățime f "width" ;  !f
+vierme m "worm" ;  !m
+lume f "world" ;  !f
+nume n "name" ;  !n nume
+lene f "laziness" ;  !f
+dezordine f "mess" ;  !f
+atitudine f "attitude" ;  !f
+imagine f "picture" ;  !f
+margine f "edge" ;  !f
+câine m "dog" ;  !m
+pâine f "bread" ;  !f
+rușine f "shame" ;  !f
+carne f "flesh" ;  !f cărnuri a->ă
+cărbune m "coal" ;  !m
+slăbiciune f "weakness" ;  !f
+vioiciune f "liveliness" ;  !f
+rugăciune f "prayer" ;  !f
+promisiune f "pledge" ;  !f
+previziune f "foresight" ;  !f
+afecțiune f "affection" ;  !f
+porțiune f "portion" ;  !f
+minune f "marvel" ;  !f
+vulpe f "fox" ;  !f
+șarpe m "serpent" ;  !m (doi șerpi)
+șarpe m "snake" ;  !m
+viespe f "wasp" ;  !f
+întrebare f "question" ;  !f a->ă 
+serbare f "feast" ;  !f a->ă
+plecare f "departure" ;  !f a->ă
+încercare f "attempt" ;  !f a->ă
+confiscare f "seizure" ;  !f a->ă
+mișcare f "movement" ;  !f a->ă
+împăcare f "reconciliation" ;  !f a->ă
+trădare f "betrayal" ;  !f a->ă
+suflare f "breath" ;  !f a->ă
+izolare f "seclusion" ;  !f a->ă
+mare f "sea" ;  !f mări a->ă
+exprimare f "expression" ;  !f exprimări a->ă
+consternare f "dismay" ;  !f consternări a->ă
+răzbunare f "revenge" ;  !f răzbunări a->ă
+îndemânare f "skill" ;  !f  a->ă
+lumânare f "candle" ;  !f a->ă
+asemănare f "likeness" ; !f a->ă
+valoare f "worth" ;  !f
+floare f "flower" ;  !f
+culoare f "color" ;  !f
+soare m "sun" ;  !m
+închisoare f "prison" ;  !f
+scrisoare f "letter" ;  !f
+privighetoare f "nightingale" ;  !f
+ascuțitoare f "sharpener" ;  !f
+sărbătoare f "holiday" ;  !f
+spânzurătoare f "scaffold" ;  !f
+încăierare f "skirmish" ;  !f a->ă
+intrare f "entrance" ;  !f a->ă
+asigurare f "assurance" ;  !f a->ă
+răscumpărare f "ransom" ;  !f a->ă
+supărare f "vexation" ;  !f a->ă
+sare f "salt" ;  !f săruri a->ă
+cercetare f "search" ;  !f a->ă
+cuvântare f "speech" ;  !f a->ă
+prescurtare f "abbreviation" ;  !f a->ă
+căutare f "quest" ;  !f a->ă
+taxare f "taxation" ;  !f a->ă
+epuizare f "exhaustion" ;  !f a->ă
+încuviințare f "compliance" ;  !f a->ă
+afacere f "business" ;  !f
+trecere f "passage" ;  !f
+întoarcere f "return" ;  !f
+plăcere f "pleasure" ;  !f
+încredere f "confidence" ;  !f
+vedere f "sight" ;  !f
+întrevedere f "interview" ;  !f
+derâdere f "derision" ;  !f
+cădere f "fall" ;  !f
+înțelegere f "understanding" ;  !f
+plângere f "complaint" ;  !f
+scurgere f "drain" ;  !f
+închiriere f "rent" ;  !f
+durere f "pain" ;  !f
+dezbatere f "counsel" ;  !f
+admitere f "admission" ;  !f
+naștere f "birth" ;  !f
+fericire f "happiness" ;  !f
+măgulire f "flattery" ;  !f
+jignire f "offence" ;  !f
+întâlnire f "meeting" ;  !f
+nedumerire f "bewilderment" ;  !f
+sosire f "arrival" ;  !f
+pregătire f "training" ;  !f
+încercuire f "encirclement" ;  !f
+împrejmuire f "hedge" ;  !f
+pădure f "forest" ;  !f
+strugure m "grape" ;  !m
+iepure m "rabbit" ;  !m
+fluture m "butterfly" ;  !m
+pasăre f "bird" ;  !f păsari a->ă
+spate n "back" ;  !n spete a->e
+frate m "brother" ;  !m
+proprietate f "estate" ;  !f a->ă
+publicitate f "advertisement" ;  !f a->ă
+rigiditate f "stiffness" ;  !f a->ă
+umiditate f "dampness" ;  !f a->ă
+calitate f "quality" ;  !f a->ă
+localitate f "locality" ;  !f a->ă
+realitate f "reality" ;  !f a->ă
+frugalitate f "frugality" ;  !f a->ă
+utilitate f "usefulness" ;  !f a->ă
+caritate f "charity" ;  !f a->ă
+duritate f "harshness" ;  !f a->ă
+universitate f "university" ;  !f a->ă
+gratuitate f "gratuity" ;  !f a->ă
+curiozitate f "inquisitiveness" ;  !f a->ă
+dificultate f "difficulty" ;  !f a->ă
+dreptate f "fairness" ;  !f a->ă
+libertate f "freedom" ;  !f a->ă
+greutate f "weight" ;  !f a->ă
+sănătate f "health" ;  !f a->ă
+oaspete m "guest" ;  !m
+perete m "wall" ;  !m
+sete f "thirst" ;  !f
+crevete m "shrimp" ;  !m
+dinte m "tooth" ;  !m
+președinte m "chairman" ;  !m
+îmbrăcăminte f "clothing" ;  !f
+părinte m "parent" ;  !m
+viconte m "viscount" ;  !m
+munte m "mountain" ;  !m
+punte f "deck" ;  !f
+frunte f "forehead" ;  !f
+lapte m "milk" ;  !m (pl. doi lapți)
+lapte n_uri "milk" ;  !n (pl. două lăpturi) a->ă
+noapte f "night" ;  !f
+carte f_i "book" ;  !f cărti a->ă
+moarte f "death" ;  !f
+parte f "part" ;  !f părti a->ă
+poveste f "tale" ;  !f
+dragoste f "love" ;  !f
+pește m "fish" ;  !m
+opreliște f "hindrance" ;  !f
+liniște f "silence" ;  !f
+tinerețe f "youth" ;  !f
+frumusețe f "beauty" ;  !f
+tristețe f "sadness" ;  !f
+praf n_uri "dust" ;  !n
+cearșaf n_uri "sheet" ;  !n only for bed
+coală f "sheet" ; !f paper
+șef m "chef" ;  !m
+filozof m "philosopher" ;  !m
+pantof m "shoe" ;  !n pantofi
+vârf n_uri "peak" ;  !n
+steag n_uri "flag" ;  !n
+cârlig n "hook" ;  !n cârlige
+șiling m "shilling" ;  !m
+plug n_uri "plough" ;  !n
+ceai n_uri "tea" ;  !n
+rai n_uri "heaven" ;  !n
+licurici m "firefly" ;  !m
+obicei n_uri "habit" ;  !n  două obiceiuri (habit)
+obicei n_uri "custom" ; !n două obiceie (tradition)
+chei n_uri "wharf" ;  !n
+ulei n_uri "oil" ;  !n două uleiuri
+ulei n_uri "trunk" ;  !n două uleie (hollow trunk used as depozit)
+holtei m "bachelor" ;  !m
+unchi m "uncle" ;  !m
+genunchi m "knee" ;  !m
+ochi m "eye" ;  !m ochi
+ochi n_uri "fried egg" ;  !n ochiuri (drop of grease, glas in a window)
+unghi n_uri "angle" ;  !n
+bani m "money" ;  !m_pl
+război n "war" ;  !n două războaie
+noroi n "mud" ;  !n două noroaie
+#gri m "grey" ;  !gri this is adj
+zori m "dawn" ;  !m plurale tantum
+cui n "nail" ;  !n două cuie
+zi f "day" ;  !f
+călcâi n "heel" ;  !n două călcâie
+bagaj n "luggage" ;  !n bagaje
+garaj n "garage" ;  !n garaje
+curaj n "courage" ;  !n sg tantum
+procentaj n "percentage" ;  !n procentaje
+cal m "horse" ;  !m
+deal n_uri "hill" ;  !n
+material n_uri "material" ;  !n
+animal n_uri "animal" ;  !n două animale
+canal n "channel" ;  !n canale
+canal n_uri "channel" ;  !n canaluri
+personal n_uri "staff" ;  !n
+spital n_uri "hospital" ;  !n spitaluri
+spital n "hospital" ;  !n spitale
+stal n_uri "stall" ;  !n
+val n_uri "wave" ;  !n
+măcel n_uri "slaughter" ;  !n
+model n "pattern" ;  !n modele
+portofel n "purse" ;  !n portofele
+miel m "lamb" ;  !m
+inel n "ring" ;  !n inele
+hotel n "hotel" ;  !n hotele
+hotel n_uri "hotel" ;  !n hoteluri
+șeptel n_uri "livestock" ;  !n
+vițel m "calf" ;  !m
+contabil m "bookkeeper" ;  !m
+copil m "child" ;  !m
+stil n_uri "style" ;  !n stiluri
+stil n "style" ;  !n stile
+simbol n_uri "symbol" ;  !n simboluri
+simbol n "symbol" ;  !n simboale
+spectacol n "spectacle" ;  !n spectacole
+secol n_uri "century" ;  !n
+pericol n "danger" ;  !n pericole
+consul m "consul" ;  !m
+șoim m "falcon" ;  !m
+film n "film" ;  !n filme
+film n_uri "film" ;  !n filmuri
+om m "man" ;  !m
+pom m "tree" ; !m
+poamă f "fruit" ; !f
+țărm n_uri "shore" ;  !n
+drum n_uri "way" ;  !n
+an m "year" ;  !m
+ciocan m "mais" ;  !n ciocani (Maiskolben)
+ciocan n "hammer" ;  !n ciocane
+ocean n "ocean" ;  !n oceane
+ocean n_uri "ocean" ;  !n oceanuri
+han n_uri "inn" ;  !n
+muzician m "musician" ;  !m
+plan n_uri "plan" ;  !n
+geamantan n "suitcase" ;  !n geamantane
+tavan n "ceiling" ;  !n tavane
+tavan n_uri "ceiling" ;  !n tavanuri
+fazan m "pheasant" ;  !m
+păianjen m "spider" ;  !m
+examen n "examination" ;  !n examene
+tren n_uri "train" ;  !n
+prieten m "friend" ;  !m
+vecin m "neighbor" ;  !m
+ordin n "command" ;  !n ordine
+cămin n "chimney" ;  !n cămine ('casa' also institutions like orphanage)
+cămin n_uri "stove" ;  !n căminuri ('soba')
+suspin n "sigh" ;  !n suspine
+suspin n_uri "sigh" ;  !n suspinuri (horses' asthma)
+pelerin m "pilgrim" ;  !m
+vin n_uri "wine" ;  !n
+bazin n "basin" ;  !n bazine
+bazin n_uri "basin" ;  !n bazinuri
+magazin n "shop" ;  !n magazine
+magazin n_uri "shop" ;  !n magazinuri
+străin m "foreigner" ;  !m
+lemn n "wood" ;  !n lemne
+semn n "sign" ;  !n semne
+somn n_uri "sleep" ;  !n
+pumn m "fist" ;  !m
+balcon n ; !n balcoane
+bidon n "canister" ;  !n bidoane
+amidon n "starch" ;  !n amidoane
+telefon n "telephone" ;  !n telefoane
+stadion n "stadium" ;  !n stadioane
+creion n "pencil" ;  !n creioane
+avion n "airplane" ;  !n avioane
+patron m "employer" ;  !m
+ton m "tune fish" ;  !m toni (fish)
+ton n_uri "tone" ;  !n tonuri
+buton n "button" ;  !n butoane
+scaun n "chair" ;  !n scaune
+săpun n_uri "soap" ;  !n
+tutun n_uri "tobacco" ;  !n
+tutun m "tobacco plant" ;  !m sg tantum
+păun m "peacock" ;  !m
+stăpân m "master" ;  !m
+pieptăn m "comb" ;  !m
+cap m "head" ;  !m capi (leader, boss)
+cap n "head" ;  !n capete (extremity, peak)
+cap n_uri "head" ;  !n capuri (geogr. nes på norsk, Landspitze, Landzunge)
+dulap m "board" ;  !m dulapi (bord på norsk for å sikkere)
+dulap n_uri "closet" ;  !n
+ciorap m "sock" ;  !m
+nisip n_uri "sand" ;  !n
+timp m "as measure" ;  !m timpi
+timp n_uri "time" ;  !n timpuri
+anotimp n_uri "season" ;  !n
+câmp m "field" ;  !m câmpi
+câmp n_uri "field" ;  !n câmpuri
+scop n_uri "purpose" ;  !n
+plop m "poplar" ;  !m
+prosop n "towel" ;  !n prosoape
+corp n_uri "body" ;  !n corpuri
+corp m "body" ;  !n corpi
+lup m "wolf" ;  !m
+grup n_uri "group" ;  !n
+plugar m "ploughman" ;  !m
+măgar m "jackass" ;  !m
+pahar n "glass" ;  !n pahare
+ziar n "newspaper" ;  !n ziare
+stejar m "oak" ;  !m
+pojar n_uri "measles" ;  !n
+măcelar m "butcher" ;  !m
+fular n "scarf" ;  !n fulare
+grădinar m "gardener" ;  !m
+marinar m "sailor" ;  !m
+colecționar m "collector" ;  !m
+morar m "miller" ;  !m
+adversar m "opponent" ;  !m
+degetar n "thimble" ;  !n degetare
+secretar m "secretary" ;  !m
+lăptar m "milkman" ;  !m
+brutar m "baker" ;  !m
+ospătar m "waiter" ;  !m
+muștar m "mustard plant" ;  !m
+muștar n_uri "mustard" ;  !n
+avar m "miser" ;  !m
+potcovar m "smith" ;  !m
+aer n "air" ;  !n aere
+cer n_uri "sky" ;  !n ceruri
+cer m "quercus cerris" ; !m ceri (some sort of oak/beech tree)
+fulger n "lightning" ;  !n fulgere
+înger m "angel" ;  !m
+creier m "brain" ;  !m creieri
+creier n "brain" ;  !n creiere
+fier n "iron" ;  !n fiare ie->ia
+fermier m "farmer" ;  !m
+șifonier n "wardrobe" ;  !n șifoniere
+prizonier m "prisoner" ;  !m
+partener m "partner" ;  !m
+reper n "landmark" ;  !n repere
+reper n_uri "landmark" ;  !n reperuri
+piper m "pepper" ;  !m
+frizer m "barber" ;  !m
+cimitire n "cemetary" ;  !n cimitire
+zbor n_uri "flight" ;  !n
+cor n_uri "chorus" ;  !n
+ambasador m "ambassador" ;  !m
+sudor m "welder" ;  !m
+picior n "foot" ;  !n picioare
+urcior n "jug" ;  !n urcioare
+ulcior n "jug" ;  !n ulcioare
+nor m "cloud" ;  !m
+vapor n "ship" ;  !n vapoare
+vapor m "evaporation" ;  !m vapori
+profesor m "teacher" ;  !m
+desenator m "drawer" ;  !m
+donator m "giver" ;  !m
+conspirator m "conspirator" ;  !m
+administrator m "steward" ;  !m
+dictator m "dictator" ;  !m
+actor m "actor" ;  !m
+director m "manager" ;  !m
+pictor m "painter" ;  !m
+doctor m "doctor" ;  !m
+supraveghetor m "overseer" ;  !m
+editor m "editor" ;  !m
+dormitor n "bedroom" ;  !n dormitoare
+cositor n "tin" ;  !n no plural
+cititor m "reader" ;  !m
+servitor m "maidservant" ;  !m
+motor n "motor" ;  !n motoare
+martor m "witness" ;  !m
+negustor m "merchant" ;  !m
+autor m "author" ;  !m
+ajutor n "help" ;  !n ajutoare
+trecător m "stroller" ;  !m
+conducător m "ruler" ;  !m
+binefăcător m "benefactor" ;  !m
+spărgător m "burglar" ;  !m
+călător m "traveller" ;  !m
+vânător m "hunter" ;  !m
+cățărător m "climber" ;  !m
+țesător m "weaver" ;  !m
+covor n "rug" ;  !n covoare
+izvor n "spring" ;  !n izvoare
+aur n "gold" ;  !n no plural
+zahăr n_uri "sugar" ;  !n
+măr n_e "apple" ;  !n mere (fruit)
+măr m "apple tree" ;  !n meri 
+umăr m "shoulder" ;  !m
+umăr n_e "shoulder" ;  !n umere (Kleiderbügel)
+număr n_e "number" ;  !n numere
+văr m "cousin" ;  !m
+adevăr n_uri "truth" ;  !n
+neadevăr n_uri "untruth" ;  !n
+ceas n_uri "watch" ;  !n
+nas n_uri "nose" ;  !n
+pas m "step" ;  !m
+vas n_e "vessel" ;  !n vase
+succes n_e "success" ;  !n succese
+succes n_uri "success" ;  !n succesuri
+interes n_e "interest" ;  !n interese
+interes n_uri "interest" ;  !n interesuri
+progres n_e "advancement" ;  !n progrese
+progres n_uri "advancement" ;  !n progresuri
+scris n_uri "writing" ;  !n
+vis n_e "dream" ;  !n vise
+vis n_uri "dream" ;  !n visuri
+sens n_uri "sense" ;  !n
+răspuns n_uri "reply" ;  !n
+haos n_uri "chaos" ;  !n
+mincinos m "liar" ;  !m
+miros n_uri "smell" ;  !n
+urs m "bear" ;  !m
+curs n_uri "course" ;  !n
+râs m "lynx" ;  !m râși (Lynx lynx)
+râs n_uri "laugh" ;  !n
+râset n_e "laugh" ;  !n
+surâs n_uri "smile" ;  !n
+avocat m "lawyer" ;  !m
+păcat n_e "sin" ;  !n
+evadat m "fugitive" ;  !m
+soldat m "soldier" ;  !m
+băiat m "boy" ;  !m
+cârnat m "sausage" ;  !m
+pat n_uri "bed" ;  !n
+jurat m "juror" ;  !m
+sat n_e "village" ;  !n
+tratat n_e "treaty" ;  !n
+tratat n_uri "treaty" ;  !n
+rezultat n_e "outcome" ;  !n
+rezultat n_uri "outcome" ;  !n
+obiect n_e "object" ;  !n
+respect n_e "respect" ;  !n
+punct n_e "dot" ;  !n
+punct n_uri "dot" ;  !n
+fruct n_e "fruit" ;  !n
+deget n_e "finger" ;  !n
+suflet n_e "soul" ;  !n
+bilet n_e "ticket" ;  !n
+bilet n_uri "ticket" ;  !n
+sunet n_e "sound" ;  !n
+tunet n_e "thunder" ;  !n
+trăsnet n_e "thunderbolt" ;  !n
+secret n_e "secret" ;  !n
+secret n_uri "secret" ;  !n
+regret n_e "regret" ;  !n
+portret n_e "portrait" ;  !n
+portret n_uri "portrait" ;  !n
+oțet n_uri "vinegar" ;  !n
+oțet m "priest" ;  !m oțeti (parinte al bisericii)
+profit n_uri "profit" ;  !n
+merit n_e "merit" ;  !n
+merit n_uri "merit" ;  !n
+sfârșit n_uri "end" ;  !n
+cuțit n_e "knife" ;  !n
+elefant m "elephant" ;  !m
+restaurant n_e "restaurant" ;  !n
+restaurant n_uri "restaurant" ;  !n
+accident m "alteration sign" ;  !n accidenți (in music: sharp, flat)
+accident n_e "accident" ;  !n
+pretendent m "suitor" ;  !m
+student m "student" ;  !m
+client m "customer" ;  !m
+echipament n_e "equipment" ;  !n
+echipament n_uri "equipment" ;  !n
+apartament n_e "apartment" ;  !n
+ciment n_uri "cement" ;  !n
+eveniment n_e "event" ;  !n
+sentiment n_e "sentiment" ;  !n
+moment n_e "moment" ;  !n
+argint m "silver coin" ;  !m money
+argint n_uri "silver" ;  !m metal (in pl.: objects of silver)
+unt n_uri "butter" ;  !n
+amănunt n_e "detail" ;  !n
+amănunt n_uri "detail" ;  !n
+mormânt n_e "grave" ;  !n morminte
+mormânt n_uri "grave" ;  !n mormânturi (obsolete)
+mormânt m "grave" ;  !m morminți (seldom)
+pământ n_uri "ground" ;  !n
+jurământ n_e "oath" ;  !n
+îngrășământ n_e "manure" ;  !n
+vânt n_uri "wind" ;  !n
+cuvânt n_e "word" ;  !n
+cot n_e "elbow" ;  !n coate (anat.)
+cot n_uri "bend" ;  !n coturi (geog., tech.: bend, meander)
+cot m "ell" ;  !n coți (deu: eine Elle)
+preot m "priest" ;  !m
+matelot m "seaman" ;  !m
+zgomot n_e "noise" ;  !n
+nepot m "grandson" ;  !m
+clopot n_e "bell" ;  !n
+clocot n_e "bubling" ;  !n
+fapt n_e "fact" ;  !n
+fapt n_uri "spell" ;  !n magic, witchcraft (what is then a spellchecker?)
+fapt m "some animal" ;  !m fapți (zool.)
+piept n_uri "chest" ;  !n
+piept m "chesty part of some clothes" ;  !m piepți
+concert n_e "concert" ;  !n
+efort n_uri "effort" ;  !n
+aeroport n_uri "airport" ;  !n
+artist m ;  ! 
+gust n_uri "taste" ;  !n
+dezgust n_uri "disgust" ;  !n
+împrumut n_uri "loan" ;  !n
+minut n_e "minute" ;  !n minute (time)
+minut n_uri "(fast) food" ;  !n minuturi (food prepared "in a minute")
+început n_uri "start" ;  !n
+sărut n_uri "kiss" ;  !n
+gât n_uri "throat" ;  !n
+lacăt n_e "padlock" ;  !n
+geamăt n_e "groan" ;  !n gemete
+capăt n_e "extremity" ;
+leu m "lion" ;  !m
+heleșteu n_e "pond" ;  !n heleșteie (heleștee --> heleșteie!)
+eleșteu n_e "pond" ;  !n eleșteie (variant of heleșteu)
+dubiu n "doubt" ;  !n dubii
+sacrificiu n "sacrifice" ;  !n sacrificii
+artificiu n "artifice" ;  !n artificii
+viciu n "vice" ;  !n vicii
+studiu n "study" ;  !n studii
+fiu m "son" ;  !m
+crochiu n_uri "draft" ;  !n
+salariu n "wage" ;  !n salarii
+pariu n_uri "bet" ;  !n
+imperiu n "empire" ;  !n imperii
+spațiu n "space" ;  !n spații
+exemplu n_e "example" ;  !n exemple
+exemplu n_uri "example" ;  !n exempluri
+cuplu n_uri "couple" ;  !n
+titlu n_uri "title" ;  !n
+ou n_ă "egg" ;  !n ouă (oue --> ouă)
+tablou n_uri "painting" ;  !n
+stilou n_uri "pen" ;  !n
+rulou n_uri "roll" ;  !n
+erou m "hero" ;  !m
+birou n_uri "desk" ;  !n
+timbru n_e "stamp" ;  !n timbre
+timbru n_uri "timbre" ;  !n  timbruri (acoustic color, Klangfarbe, kleine Glocke)
+lucru n_uri "thing" ;  !n
+codru m "forest" ;
+cupru n "copper" ;  !n only sg
+râu n_uri "river" ;  !n
+grâu n "wheat" ;  !n (pl. grâie AND grâne) "lanuri de grâne"
+grâu n_uri "wheat" ;  !n grâuri (species) 
+pârâu n "stream" ;  !n pâraie
+pârâu n_uri "stream" ;  !n pârâuri
+motiv n_e "reason" ;  !n
+văduv m "widower" ;  !m
+necaz n_uri "affliction" ;  !n
+gaz n_e "gas" ;  !n
+obraz m "cheek" ;  !m
+meterez n_e "rampart" ;  !n
+meterez n_uri "rampart" ;  !n
+mânz m "colt" ;  !m
+refuz n_uri "refusal" ;  !n
+pungaș m "pickpocket" ;  !m
+braț n_e "arm" ;  !n
+oraș n_e "city" ;  !n
+părtaș m "accomplice" ;  !m
+boabă f "berry" ;  !f
+gambă f "leg" ;  !f
+limbă f "language" ;  !f
+probă f "test" ;  !f
+sobă f "stove" ;  !f
+barbă f "beard" ;  !f
+iarbă f "grass" ;  !f
+vacă f "cow" ;  !f
+mânecă f "sleeve" ;  !f
+bibliotecă f "library" ;  !f
+leoaică f "lioness" ;  !f
+pietricică f "pebble" ;  !f
+fiică f "daughter" ;  !f
+panică f "panic" ;  !f
+furnică f "ant" ;  !f
+bunică f "grandmother" ;  !f
+biserică f "church" ;  !f
+frică f "fear" ;  !f
+pisică f "cat" ;  !f
+piersică f "peach" ;  !f
+muzică f "music" ;  !f
+falcă f "jaw" ;  !f fălci a->ă
+bancă f "bank" ;  !f bănci a->ă
+juncă f "heifer" ;  !f
+muncă f "work" ;  !f
+șuncă f "bacon" ;  !f
+stâncă f "rock" ;  !f
+șapcă f "cap" ;  !f but then șapcă should be also f șepci a->e
+barcă f_i ; ! bărci: a->ă
+broască f "frog" ;  !f
+gâscă f "goose" ;  !f
+jiletcă f "waistcoat" ;  !f
+nucă f "nut" ;  !f
+cușcă f "cage" ;  !f
+cadă f "tub" ;  !f căzi a->ă
+grămadă f "heap" ;  !f
+coadă f "tail" ;  !f
+zăpadă f "snow" ;  !f
+paradă f "parade" ;  !f
+stradă f "street" ;  !f străzi a->ă
+autostradă f "highway" ;  !f autostrăzi a->ă
+dovadă f "proof" ;  !f
+bandă f "tape" ;  !f
+oglindă f "mirror" ;  !f
+grindă f "girder" ;  !f
+modă f "fashion" ;  !f
+metodă f "method" ;  !f
+gardă f "guardianship" ;  !f gărzi a->ă
+rudă f "kinsman" ;  !f
+gazdă f "host" ;  !f
+lebădă f "swan" ;  !f
+dispreț n_uri "disdain" ;  !n
+agrafă f "clip" ;  !f
+rangă f "crowbar" ;  !f răngi a->ă
+dungă f "stripe" ; ! dungi ==> no vowel change in the stem
+acoperiș n_uri "roof" ;  !n
+plajă f "beach" ;  !f
+coajă f "peel" ;  !f
+forjă f "smithy" ;  !f
+cerneală f "ink" ;  !f
+îndrăzneală f "boldness" ;  !f
+pripeală f "haste" ;  !f
+plictiseală f "boredom" ;  !f
+oboseală f "fatigue" ;  !f
+moleșeală f "drowsiness" ;  !f
+greșeală f "mistake" ;  !f
+bănuială f "suspicion" ;  !f
+șovăială f "hesitation" ;  !f
+boală f "illness" ;  !f
+școală f "school" ;  !f
+sticlă f "bottle" ;  !f
+buclă f "curl" ;  !f
+flanelă f "flannel" ;  !f
+umbrelă f "umbrella" ;  !f
+bilă f "marble" ;  !f
+mobilă f "furniture" ;  !f
+chilă f "keel" ;  !f
+anghilă f "eel" ;  !f
+milă f "mercy" ;  !f
+cămilă f "camel" ;  !f
+fosilă f "fossil" ;  !f
+colț m "tooth" ;  !m colți
+colț n_uri "corner" ;  !n colțuri
+colt n_uri "colt" ;  !n colturi (weapon)
+șopârlă f "lizard" ;  !f
+vâslă f "paddle" ;  !f
+fabulă f "fable" ;  !f
+regulă f "rule" ;  !f
+mamă f "mother" ;  !f
+problemă f "problem" ;  !f
+spaimă f "fear" ;  !f
+inimă f "heart" ;  !f
+lacrimă f "tear" ;  !f
+fantomă f "ghost" ;  !f
+formă f "shape" ;  !f
+sumă f "sum" ;  !f
+capcană f "snare" ;  !f
+sprânceană f "eyebrow" ;  !f
+lanț n_uri "chain" ;  !n
+persoană f "person" ;  !f
+rană f "wound" ;  !f răni a->ă
+hrană f "nourishment" ;  !f
+scenă f "scene" ;  !f
+odihnă f "rest" ;  !f
+haină f "coat" ;  !f
+albină f "bee" ;  !f
+cină f "dinner" ;  !f
+sarcină f "task" ;  !f
+grindină f "hail" ;  !f
+grădină f "garden" ;  !f
+pagină f "page" ;  !f
+regină f "queen" ;  !f
+rugină f "rust" ;  !f
+lumină f "light" ;  !f
+marină f "navy" ;  !f
+prinț m "prince" ;  !m
+vizuină f "lair" ;  !f
+duzină f "dozen" ;  !f
+mașină f "machine" ;  !f
+doamnă f "lady" ;  !f
+toamnă f "autumn" ;  !f
+iarnă f "winter" ;  !f
+pernă f "pillow" ;  !f
+lanternă f "lantern" ;  !f
+daună f "damage" ;  !f
+minciună f "lie" ;  !f
+lună f_i "moon" ;  !f 
+prună f "plum" ;  !f
+furtună f "storm" ;  !f
+căpșună f "strawberry" ;  !f
+lână f "wool" ;  !f
+mână f "hand" ;  !f
+săptămână f "week" ;  !f
+smântână f "sour cream" ;  !f
+coș n_uri "basket" ;  !n coșuri
+coș m "basket" ;  !n coși (larv of some insect)
+soț m "spouse" ;  !m
+apă f "water" ;  !f
+iapă f "mare" ;  !f
+echipă f "team" ;  !f
+clipă f "instant" ;  !f
+pipă f "pipe" ;  !f
+aripă f "wing" ;  !f
+gripă f "influenza" ;  !f
+lampă f "lamp" ;  !f lămpi a->ă
+supă f "soup" ;  !f
+bară f "bar" ;  !f
+scară f "staircase" ;  !f scări a->ă
+ceară f "wax" ;  !f
+gheară f "claw" ;  !f
+seară f "evening" ; ! seri ea->e
+mioară f "ewe" ;  !f miori oa->o
+moară f "mill" ;  !f
+comoară f "treasure" ;  !f
+vară f "summer" ;  !f
+povară f "burden" ;  !f
+țară f "country" ;  !f țări a->ă
+brățară f "bracelet" ;  !f brățări a->ă
+umbră f "shadow" ;  !f
+infirmieră f "nurse" ;  !f
+scrumieră f "ashtray" ;  !f
+manieră f "manner" ;  !f
+litieră f "litter" ;  !f
+cameră f "room" ;  !f
+viperă f "viper" ;  !f
+peșteră f "cave" ;  !f
+liră f "lyre" ;  !f
+satiră f "satire" ;  !f
+oră f "hour" ;  !f
+soră f "sister" ; ! două surori 
+șorț n_uri "apron" ;  !n
+capră f "goat" ;  !f
+piatră f "stone" ;  !f
+vatră f "fireplace" ;  !f
+fereastră f "window" ;  !f
+gaură f "hole" ;  !f
+căldură f "heat" ;  !f
+smeură f "raspberry" ;  !f
+gură f "mouth" ;  !f
+lingură f "spoon" ;  !f
+ramură f "branch" ;  !f
+natură f "nature" ;  !f
+încheietură f "joint" ;  !f
+progenitură f "offspring" ;  !f
+lovitură f "hit" ;  !f
+agricultură f "farming" ;  !f
+sculptură f "sculpture" ;  !f
+picătură f "drop" ;  !f
+încărcătură f "load" ;  !f
+mușcătură f "bite" ;  !f
+mătură f "broom" ;  !f
+cusătură f "seam" ;  !f
+livră f "pound" ;  !f
+tabără f "encampment" ;  !f
+casă f ; ! case ==> no v-change
+mireasă f "bride" ;  !f
+masă f "table" ;  !f mese a->e
+masă f "mass" ;  !f mase
+clisă f "slime" ;  !f
+șansă f "chance" ;  !f
+coapsă f "thigh" ;  !f
+lipsă f "lack" ;  !f
+judecată f "judgment" ;  !f
+bucată f "piece" ;  !f
+dată f "date" ;  !f 
+săgeată f "arrow" ;  !f
+gheată f "boot" ;  !f
+găleată f "pail" ;  !f
+fată f "girl" ;  !f
+ciocolată f "chocolate" ;  !f
+plată f "payment" ;  !f
+armată f "army" ;  !f
+nepoată f "niece" ;  !f
+tată m "father" ;  !m
+cravată f "necktie" ;  !f
+secetă f "drought" ;  !f
+anchetă f "inquiry" ;  !f
+violetă f "violet" ;  !f
+carpetă f "carpet" ;  !f
+șaretă f "cart" ;  !f
+mită f "bribery" ;  !f
+limită f "limit" ;  !f
+copită f "hoof" ;  !f
+conduită f "conduct" ;  !f
+vizită f "visit" ;  !f
+insultă f "insult" ;  !f
+guvernantă f "governess" ;  !f
+faptă f "deed" ;  !f
+hartă f "map" ;  !f hărti a->ă
+poartă f "gate" ;  !f
+ofertă f "offer" ;  !f
+burtă f "belly" ;  !f
+coastă f "rib" ;  !f
+vestă f "jacket" ;  !f
+pistă f "trail" ;  !f
+batistă f "handkerchief" ;  !f
+vârstă f "age" ;  !f
+fustă f "skirt" ;  !f
+crustă f "crust" ;  !f
+cută f "fold" ;  !f
+bebeluș m "baby" ;  !m
+rouă f "dew" ;  !f
+văduvă f "widow" ;  !f
+sintaxă f "syntax" ;  !f
+după-amiază f "afternoon" ;  !f
+faleză f "cliff" ;  !f
+viteză f "speed" ;  !f
+surpriză f "surprise" ;  !f
+frunză f "leaf" ;  !f
+barză f "stork" ;  !f
+buză f "lip" ;  !f
+ceață f "fog" ;  !f
+dulceață f "sweetness" ;  !f
+gheață f "ice" ;  !f
+dimineață f "morning" ;  !f
+cireașă f "cherry" ;  !f
+față f "face" ;  !f
+piață f "market" ;  !f
+viață f "life" ;  !f
+cămașă f "shirt" ;  !f cămăși a->ă
+rață f "duck" ;  !f
+mustață f "moustache" ;  !f
+băț n_e "stick" ;  !n
+porumbiță f "dove" ;  !f
+ladă f "crate" ;  !f lăzi a->ă
+lădiță f "small crate" ;  !f "iță"-diminutiv is regular and very productive
+zeiță f "goddess" ;  !f
+furculiță f "fork" ;  !f
+graniță f "border" ;  !f
+pivniță f "cellar" ;  !f
+călugăriță f "nun" ;  !f
+siguranță f "security" ;  !f
+nesiguranță f "uncertainty" ;  !f
+chitanță f "receipt" ;  !f
+distanță f "distance" ;  !f
+rezidență f "residence" ;  !f
+abundență f "abundance" ;  !f
+conștiență f "consciousness" ;  !f
+indolență f "indolence" ;  !f
+absență f "absence" ;  !f
+rezistență f "endurance" ;  !f
+prezență f "presence" ;  !f
+credință f "belief" ;  !f
+conștiință f "conscience" ;  !f
+dorință f "desire" ;  !f
+ușurință f "facility" ;  !f
+cunoștință f "acquaintance" ;  !f
+forță f "strength" ;  !f
+ușă f "door" ;  !f
+mânușă f "glove" ;  !f
+păpușă f "doll" ;  !f
+căruță f "chariot" ;  !f
+mătușă f "aunt" ;  !f
+peşte m "fish" ; 
+marfă f_uri "merchandise" ;
+dulceață f_uri "jam" ; ! dulcețuri (sweeter than jam)
+dulceață f "jam" ; ! dulceți (sweeter than jam)
+marmeladă f "jam" ; ! this is the typical jam in Romania
+baie f_0 "bathroom" ;
+felie f_i "slice" ;
+frecție f_i "massage" ;
+basma f_le "head kerchief" ;
+pijama f_le "pajamas" ;
+cafea f_le "cafe" ;
+saltea f_le "mattress" ;
+miercuri f_i "Wednesday" ;
+tanti f_i "aunt" ;
+muzeu n_e "museum" ;
+teatru n_e "theatre" ;
+exercițiu n_i "exercise" ;
+fotoliu n_i "armchair" ;
+sicriu n_e "coffin" ;
+burghiu n_e "drill" ;
+

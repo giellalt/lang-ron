@@ -1,0 +1,39 @@
+!Distributed under the terms of the GNU General Public License version 2
+! or any later version.
+
+LEXICON Prepositions
+! Acc-prep
+pe p ;
+cu p ;
+de p ;
+la p ;
+pentru p ;
+până p ;
+
+!Dative
+grație p ;
+datorită p ;
+mulțumită p ;
+conform p ;
+contrar p ;
+potrivit p ;
+aidoma p ;
+asemenea p ;
+
+între p ;
+întru p ;
+într-un p ; ! asta nu se scrie într-un singur cuvânt
+într-o p ;  ! asta nu se scrie într-un singur cuvânt
+împotriva p ;
+împrejur p ;
+împreună p ;
+înainte p ;
+înapoi p ;
+înăuntru p ;
+încă p ;
+în p ;
+de p ;
+
+
+LEXICON p
++Pr: # ;

@@ -1,0 +1,80 @@
+!Distributed under the terms of the GNU General Public License version 2
+! or any later version.
+
+LEXICON Pronouns
+Interrogatives ;
+Personal ;
+Reflexive ;
+
+LEXICON Personal
+eu+Pron+Pers+Sg1+Nom:eu # ;
+tu+Pron+Pers+Sg2+Nom:tu # ;
+el+Pron+Pers+Sg3+Nom:el # ;
+ea+Pron+Pers+Sg3+Nom:ea # ;
+noi+Pron+Pers+Pl1+Nom:noi # ;
+voi+Pron+Pers+Pl2+Nom:voi # ;
+ei+Pron+Pers+Pl3+Nom:ei # ;
+ele+Pron+Pers+Pl3+Nom:ele # ;
+
+eu+Pron+Pers+Sg1+Acc:mine # ;
+tu+Pron+Pers+Sg2+Acc:tine # ;
+el+Pron+Pers+Sg3+Acc:el # ;
+ea+Pron+Pers+Sg3+Acc:ea # ;
+noi+Pron+Pers+Pl1+Acc:noi # ;
+voi+Pron+Pers+Pl2+Acc:voi # ;
+ei+Pron+Pers+Pl3+Acc:ei # ;
+ele+Pron+Pers+Pl3+Acc:ele # ;
+
+eu+Pron+Pers+Sg1+Acc:mă # ;
+tu+Pron+Pers+Sg2+Acc:te # ;
+el+Pron+Pers+Sg3+Acc:îl # ;
+ea+Pron+Pers+Sg3+Acc:o # ;
+noi+Pron+Pers+Pl1+Acc:ne # ;
+voi+Pron+Pers+Pl2+Acc:vă # ;
+ei+Pron+Pers+Pl3+Acc:îl # ;
+ele+Pron+Pers+Pl3+Acc:le # ;
+
+eu+Pron+Pers+Sg1+Dat:mie # ;
+tu+Pron+Pers+Sg2+Dat:ție # ;
+el+Pron+Pers+Sg3+Dat:lui # ;
+ea+Pron+Pers+Sg3+Dat:ei # ;
+noi+Pron+Pers+Pl1+Dat:nouă # ;
+voi+Pron+Pers+Pl2+Dat:vouă # ;
+ei+Pron+Pers+Pl3+Dat:lor # ;
+ele+Pron+Pers+Pl3+Dat:lor # ;
+
+eu+Pron+Pers+Dat:îmi # ;
+tu+Pron+Pers+Dat:îți # ;
+el+Pron+Pers+Dat:îi # ;
+ea+Pron+Pers+Dat:îi # ;
+noi+Pron+Pers+Dat:ne # ;
+voi+Pron+Pers+Dat:vă # ;
+ei+Pron+Pers+Dat:le # ;
+ele+Pron+Pers+Dat:le # ;
+
+LEXICON Interrogatives
+cine interr ; !who?
+cum interr ; !how?
+ce interr ; !what? (not polite)
+poftim interr ; !what? (polite)
+unde interr ; !where?
+când interr ; !when?
+
+LEXICON Reflexive
+mă+Pron+Refl+Sg1+Nom:mă # ;
+te+Pron+Refl+Sg2+Nom:te # ;
+se+Pron+Refl+Sg3+Nom:se # ;
+ne+Pron+Refl+Pl1+Nom:ne # ;
+vă+Pron+Refl+Pl2+Nom:vă # ;
+se+Pron+Refl+Pl3+Nom:se # ;
+
+mă+Pron+Refl+Sg1+Dat:îmi # ;
+te+Pron+Refl+Sg2+Dat:îți # ;
+se+Pron+Refl+Sg3+Dat:îşi # ;
+ne+Pron+Refl+Pl1+Dat:ne # ;
+vă+Pron+Refl+Pl2+Dat:vă # ;
+se+Pron+Refl+Pl3+Dat:îşi # ;
+
+
+LEXICON interr
++Pron+Interr: # ;
