@@ -21,28 +21,28 @@ Multichar_Symbols  !!≈ !!!@CODE@ definitions
 
                                            !!  !!Tags for POS
 
-+N +V +A                               !!≈ ; @CODE@ : Open POS's
-+Adv +CC +CS +Interj +Pron +Num         !!≈ ; @CODE@ : Open POS's
++N +V +A                               !!≈ * @CODE@ : Open POS's
++Adv +CC +CS +Interj +Pron +Num         !!≈ * @CODE@ : Open POS's
 
 !! !!Verbal MSP
 
-+Prs +Prt +Prf 				     !!≈ ; @CODE@
-+Ind +Imp +Conj +Opt +Sbj	     !!≈ ; @CODE@
-+Sg1 +Sg2 +Sg3 +Pl1 +Pl2 +Pl3    !!≈ ; @CODE@
-+Inf						     !!≈ ; @CODE@
++Prs +Prt +Prf 				     !!≈ * @CODE@
++Ind +Imp +Conj +Opt +Sbj	     !!≈ * @CODE@
++Sg1 +Sg2 +Sg3 +Pl1 +Pl2 +Pl3    !!≈ * @CODE@
++Inf						     !!≈ * @CODE@
 
 
 !! !!Nominal MSP
 
-+Msc +Fem +Neu	     !!≈ ; @CODE@
-+Sg +Pl +Def +ef     !!≈ ; @CODE@
-+Nom +Gen +Voc	     !!≈ ; @CODE@
-+Dem +Pers		     !!≈ ; @CODE@
-+Adc +Ord		     !!≈ ; @CODE@
-+Indef +Def		     !!≈ ; @CODE@
++Msc +Fem +Neu	     !!≈ * @CODE@
++Sg +Pl +Def +ef     !!≈ * @CODE@
++Nom +Gen +Voc	     !!≈ * @CODE@
++Dem +Pers		     !!≈ * @CODE@
++Adc +Ord		     !!≈ * @CODE@
++Indef +Def		     !!≈ * @CODE@
 
-%>			         !!≈ ; @CODE@
-%^AA %^EA %^OA       !!≈ ; @CODE@
+%>			         !!≈ * @CODE@
+%^AA %^EA %^OA       !!≈ * @CODE@
 
 
 LEXICON Root
