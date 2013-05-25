@@ -25,6 +25,7 @@ Multichar_Symbols  !!≈ !!!@CODE@ definitions
 +Adv +CC +CS +Interj +Pron +Num         !!≈ ; @CODE@ : Open POS's
 
 !! !!Verbal MSP
+
 +Prs +Prt +Prf 				     !!≈ ; @CODE@
 +Ind +Imp +Conj +Opt +Sbj	     !!≈ ; @CODE@
 +Sg1 +Sg2 +Sg3 +Pl1 +Pl2 +Pl3    !!≈ ; @CODE@
@@ -32,6 +33,7 @@ Multichar_Symbols  !!≈ !!!@CODE@ definitions
 
 
 !! !!Nominal MSP
+
 +Msc +Fem +Neu	     !!≈ ; @CODE@
 +Sg +Pl +Def +ef     !!≈ ; @CODE@
 +Nom +Gen +Voc	     !!≈ ; @CODE@
