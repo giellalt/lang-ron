@@ -489,7 +489,7 @@ reper n "landmark" ;  !n repere
 reper n_uri "landmark" ;  !n reperuri
 piper m "pepper" ;  !m
 frizer m "barber" ;  !m
-cimitire n "cemetary" ;  !n cimitire
+cimitir n "cemetary" ;  !n cimitire
 zbor n_uri "flight" ;  !n
 cor n_uri "chorus" ;  !n
 ambasador m "ambassador" ;  !m
