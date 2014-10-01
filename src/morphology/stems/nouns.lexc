@@ -647,7 +647,7 @@ piept m "chesty part of some clothes" ;  !m piepți
 concert n_e "concert" ;  !n
 efort n_uri "effort" ;  !n
 aeroport n_uri "airport" ;  !n
-artist m ;  ! 
+artist m "artist" ;  !pl. artiști 
 gust n_uri "taste" ;  !n
 dezgust n_uri "disgust" ;  !n
 împrumut n_uri "loan" ;  !n
