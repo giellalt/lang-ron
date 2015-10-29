@@ -1,20 +1,24 @@
-!!!Free and Open source Finnish analyser gtsvn-fi
+!!!Free and Open source Romanian analyser giella-ron
 
-;Authors: Divvun and Giellatekno teams, Aajege, community members
+;Authors: Divvun and Giellatekno teams, community members
 ;Software version: 2012
 ;Documentation license: GNU GFDL
 ;SVN Revision: $Revision: 68217 $
 ;SVN Date: $Date: 2013-01-16 11:31:33 +0200 (Wed, 16 Jan 2013) $
 
-!!!GTSVN-sma
+!!!giella-ron
 
-This is free and open source South Sámi morphology.
+This is free and open source Romanian morphology.
 
               !!!Rumenian morphological analyser
 
+ !!!Definitions for Multichar_Symbols
 
- !!!Multichar_Symbols definitions
-
+!!Analysis symbols
+----------------
+The morphological analyses of wordforms for the Romanian
+language are presented in this system in terms of the following symbols.
+(It is highly suggested to follow existing standards when adding new tags).
  !!Tags for POS
 
  * +N +V +A : Open POS's

@@ -1,9 +1,13 @@
 
               !!!Rumenian morphological analyser
 
+ !!!Definitions for Multichar_Symbols
 
- !!!Multichar_Symbols definitions
-
+!!Analysis symbols
+----------------
+The morphological analyses of wordforms for the Romanian
+language are presented in this system in terms of the following symbols.
+(It is highly suggested to follow existing standards when adding new tags).
  !!Tags for POS
 
  * +N +V +A : Open POS's
