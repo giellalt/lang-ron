@@ -13,7 +13,7 @@
 ! giellatekno@hum.uit.no or feedback@divvun.no
 
 ! ========================================================================== !
-!!                      !!!Rumanian morphological analyser                      
+!!                      !!!Rumanian morphological analyser
 ! ========================================================================== !
 
 
@@ -29,124 +29,124 @@
 ! -
 
 LEXICON m ! default pl -i
-+N+Msc+Nom+Sg+Indef: # ;
-+N+Msc+Nom+Sg+Def:%>ul # ;
-+N+Msc+Nom+Pl+Indef:%>i # ;
-+N+Msc+Nom+Pl+Def:%>ii # ;
-+N+Msc+Gen+Sg+Indef: # ;
-+N+Msc+Gen+Sg+Def:%>ului # ;
-+N+Msc+Gen+Pl+Indef:%>i # ;
-+N+Msc+Gen+Pl+Def:%>ilor # ;
-+N+Msc+Voc+Sg+Indef:e # ;
-+N+Msc+Voc+Sg+Def:%>ule # ;
-+N+Msc+Voc+Pl+Def:%>ilor # ;
+ +N+Msc+Nom+Sg+Indef:       # ;
+   +N+Msc+Nom+Sg+Def:%>ul   # ;
+ +N+Msc+Nom+Pl+Indef:%>i    # ;
+   +N+Msc+Nom+Pl+Def:%>ii   # ;
+ +N+Msc+Gen+Sg+Indef:       # ;
+   +N+Msc+Gen+Sg+Def:%>ului # ;
+ +N+Msc+Gen+Pl+Indef:%>i    # ;
+   +N+Msc+Gen+Pl+Def:%>ilor # ;
+ +N+Msc+Voc+Sg+Indef:e      # ;
+   +N+Msc+Voc+Sg+Def:%>ule  # ;
+   +N+Msc+Voc+Pl+Def:%>ilor # ;
 
 
 ! f
 ! -
 
 LEXICON f  ! default pl -e
-+N+Fem+Nom+Sg+Indef: # ;
-+N+Fem+Nom+Sg+Def:%>a # ;
-+N+Fem+Nom+Pl+Indef:%>e # ;
+ +N+Fem+Nom+Sg+Indef:       # ;
+   +N+Fem+Nom+Sg+Def:%>a    # ;
+ +N+Fem+Nom+Pl+Indef:%>e    # ;
 
-+N+Fem+Nom+Pl+Def:%>ele # ;
-+N+Fem+Gen+Sg+Indef:e # ;
-+N+Fem+Gen+Sg+Def:%>ei # ;
-+N+Fem+Gen+Pl+Indef:%>e # ;
-+N+Fem+Gen+Pl+Def:%>ele # ;
-+N+Fem+Voc+Sg+Indef:ă # ;
-+N+Fem+Voc+Sg+Def:%>ă # ;
-+N+Fem+Voc+Pl+Def:%>elor # ;
+   +N+Fem+Nom+Pl+Def:%>ele  # ;
+ +N+Fem+Gen+Sg+Indef:e      # ;
+   +N+Fem+Gen+Sg+Def:%>ei   # ;
+ +N+Fem+Gen+Pl+Indef:%>e    # ;
+   +N+Fem+Gen+Pl+Def:%>ele  # ;
+ +N+Fem+Voc+Sg+Indef:ă      # ;
+   +N+Fem+Voc+Sg+Def:%>ă    # ;
+   +N+Fem+Voc+Pl+Def:%>elor # ;
 
 LEXICON f_i  !  pl -uri
-+N+Fem+Nom+Sg+Indef: # ;
-+N+Fem+Nom+Sg+Def:%>a # ;
-+N+Fem+Nom+Pl+Indef:%>i # ;
+ +N+Fem+Nom+Sg+Indef:       # ;
+   +N+Fem+Nom+Sg+Def:%>a    # ;
+ +N+Fem+Nom+Pl+Indef:%>i    # ;
 
-+N+Fem+Nom+Pl+Def:%>ele # ;
-+N+Fem+Gen+Sg+Indef:e # ;
-+N+Fem+Gen+Sg+Def:%>ei # ;
-+N+Fem+Gen+Pl+Indef:%>e # ;
-+N+Fem+Gen+Pl+Def:%>ele # ;
-+N+Fem+Voc+Sg+Indef:ă # ;
-+N+Fem+Voc+Sg+Def:%>ă # ;
-+N+Fem+Voc+Pl+Def:%>elor # ;
+   +N+Fem+Nom+Pl+Def:%>ele  # ;
+ +N+Fem+Gen+Sg+Indef:e      # ;
+   +N+Fem+Gen+Sg+Def:%>ei   # ;
+ +N+Fem+Gen+Pl+Indef:%>e    # ;
+   +N+Fem+Gen+Pl+Def:%>ele  # ;
+ +N+Fem+Voc+Sg+Indef:ă      # ;
+   +N+Fem+Voc+Sg+Def:%>ă    # ;
+   +N+Fem+Voc+Pl+Def:%>elor # ;
 
 LEXICON f_uri  !  pl -uri
-+N+Fem+Nom+Sg+Indef: # ;
-+N+Fem+Nom+Sg+Def:%>a # ;
-+N+Fem+Nom+Pl+Indef:%>uri # ;
+ +N+Fem+Nom+Sg+Indef:        # ;
+   +N+Fem+Nom+Sg+Def:%>a     # ;
+ +N+Fem+Nom+Pl+Indef:%>uri   # ;
 
-+N+Fem+Nom+Pl+Def:%>urile # ;
-+N+Fem+Gen+Sg+Indef:uri # ;
-+N+Fem+Gen+Sg+Def:%>ei # ;
-+N+Fem+Gen+Pl+Indef:%>e # ;
-+N+Fem+Gen+Pl+Def:%>ele # ;
-+N+Fem+Voc+Sg+Indef:ă # ;
-+N+Fem+Voc+Sg+Def:%>ă # ;
-+N+Fem+Voc+Pl+Def:%>elor # ;
+   +N+Fem+Nom+Pl+Def:%>urile # ;
+ +N+Fem+Gen+Sg+Indef:uri     # ;
+   +N+Fem+Gen+Sg+Def:%>ei    # ;
+ +N+Fem+Gen+Pl+Indef:%>e     # ;
+   +N+Fem+Gen+Pl+Def:%>ele   # ;
+ +N+Fem+Voc+Sg+Indef:ă       # ;
+   +N+Fem+Voc+Sg+Def:%>ă     # ;
+   +N+Fem+Voc+Pl+Def:%>elor  # ;
 
 LEXICON f_le  !  pl -uri
-+N+Fem+Nom+Sg+Indef: # ;
-+N+Fem+Nom+Sg+Def:%>a # ;
-+N+Fem+Nom+Pl+Indef:%>le # ;
+ +N+Fem+Nom+Sg+Indef:       # ;
+   +N+Fem+Nom+Sg+Def:%>a    # ;
+ +N+Fem+Nom+Pl+Indef:%>le   # ;
 
-+N+Fem+Nom+Pl+Def:%>lele # ;
-+N+Fem+Gen+Sg+Indef:le # ;
-+N+Fem+Gen+Sg+Def:%>ei # ;
-+N+Fem+Gen+Pl+Indef:%>e # ;
-+N+Fem+Gen+Pl+Def:%>ele # ;
-+N+Fem+Voc+Sg+Indef:ă # ;
-+N+Fem+Voc+Sg+Def:%>ă # ;
-+N+Fem+Voc+Pl+Def:%>elor # ;
+   +N+Fem+Nom+Pl+Def:%>lele # ;
+ +N+Fem+Gen+Sg+Indef:le     # ;
+   +N+Fem+Gen+Sg+Def:%>ei   # ;
+ +N+Fem+Gen+Pl+Indef:%>e    # ;
+   +N+Fem+Gen+Pl+Def:%>ele  # ;
+ +N+Fem+Voc+Sg+Indef:ă      # ;
+   +N+Fem+Voc+Sg+Def:%>ă    # ;
+   +N+Fem+Voc+Pl+Def:%>elor # ;
 
 LEXICON f_0
-f ; ! not done
+  f ; ! not done
 
 
 ! n
 ! -
 
 LEXICON n
-+N+Neu+Nom+Sg+Indef: # ;
-+N+Neu+Nom+Sg+Def:%>ul # ;
-+N+Neu+Nom+Pl+Indef:%>uri # ;
+ +N+Neu+Nom+Sg+Indef:         # ;
+   +N+Neu+Nom+Sg+Def:%>ul     # ;
+ +N+Neu+Nom+Pl+Indef:%>uri    # ;
 
-+N+Neu+Nom+Pl+Def:%>urile # ;
-+N+Neu+Gen+Sg+Indef: # ;
-+N+Neu+Gen+Sg+Def:%>ului # ;
-+N+Neu+Gen+Pl+Indef:%>uri # ;
-+N+Neu+Gen+Pl+Def:%>urilor # ;
+   +N+Neu+Nom+Pl+Def:%>urile  # ;
+ +N+Neu+Gen+Sg+Indef:         # ;
+   +N+Neu+Gen+Sg+Def:%>ului   # ;
+ +N+Neu+Gen+Pl+Indef:%>uri    # ;
+   +N+Neu+Gen+Pl+Def:%>urilor # ;
 
 LEXICON n_uri
-n ; ! -uri default ???
+  n ; ! -uri default ???
 
 LEXICON n_e
-+N+Neu+Nom+Sg+Indef: # ;
-+N+Neu+Nom+Sg+Def:%>ul # ;
-+N+Neu+Nom+Pl+Indef:%>e # ;
+ +N+Neu+Nom+Sg+Indef:         # ;
+   +N+Neu+Nom+Sg+Def:%>ul     # ;
+ +N+Neu+Nom+Pl+Indef:%>e      # ;
 
-+N+Neu+Nom+Pl+Def:%>ele # ;
-+N+Neu+Gen+Sg+Indef: # ;
-+N+Neu+Gen+Sg+Def:%>ului # ;
-+N+Neu+Gen+Pl+Indef:%>uri # ;
-+N+Neu+Gen+Pl+Def:%>urilor # ;
+   +N+Neu+Nom+Pl+Def:%>ele    # ;
+ +N+Neu+Gen+Sg+Indef:         # ;
+   +N+Neu+Gen+Sg+Def:%>ului   # ;
+ +N+Neu+Gen+Pl+Indef:%>uri    # ;
+   +N+Neu+Gen+Pl+Def:%>urilor # ;
 
 
 LEXICON n_i
-+N+Neu+Nom+Sg+Indef: # ;
-+N+Neu+Nom+Sg+Def:%>ul # ;
-+N+Neu+Nom+Pl+Indef:%>i # ;
+ +N+Neu+Nom+Sg+Indef:         # ;
+   +N+Neu+Nom+Sg+Def:%>ul     # ;
+ +N+Neu+Nom+Pl+Indef:%>i      # ;
 
-+N+Neu+Nom+Pl+Def:%>ile # ;
-+N+Neu+Gen+Sg+Indef: # ;
-+N+Neu+Gen+Sg+Def:%>ilui # ;
-+N+Neu+Gen+Pl+Indef:%>i # ;
-+N+Neu+Gen+Pl+Def:%>urilor # ;
+   +N+Neu+Nom+Pl+Def:%>ile    # ;
+ +N+Neu+Gen+Sg+Indef:         # ;
+   +N+Neu+Gen+Sg+Def:%>ilui   # ;
+ +N+Neu+Gen+Pl+Indef:%>i      # ;
+   +N+Neu+Gen+Pl+Def:%>urilor # ;
 
 LEXICON n_ă
-n ; ! not done
+  n ; ! not done
 
 
 

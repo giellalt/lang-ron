@@ -22,12 +22,12 @@
 ! ===========================
 
 ! Sone 2b: Adjektivsdeklinasjon
-LEXICON a 
-+A+Msc+Sg:%> # ;
-+A+Neu+Sg:%> # ;
-+A+Fem+Sg:%>ă # ;
-+A+Msc+Pl:%>i # ;
-+A+Fem+Pl:%>e # ;
-+A+Neu+Pl:%>e # ;
+LEXICON a
+ +A+Msc+Sg:%>  # ;
+ +A+Neu+Sg:%>  # ;
+ +A+Fem+Sg:%>ă # ;
+ +A+Msc+Pl:%>i # ;
+ +A+Fem+Pl:%>e # ;
+ +A+Neu+Pl:%>e # ;
 
 
