@@ -28,6 +28,8 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 +N +V +A                               !!≈ * @CODE@ : Open POS's
 +Adv +CC +CS +Interj +Pron +Num         !!≈ * @CODE@ : Open POS's
 
++Symbol !!≈ * @CODE@ = independent symbols in the text stream, like £, €, ©
+
 !! !!Verbal MSP
 
 +Prs +Prt +Prf 				     !!≈ * @CODE@
