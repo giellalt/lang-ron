@@ -23,6 +23,8 @@ language are presented in this system in terms of the following symbols.
  * +N +V +A : Open POS's
  * +Adv +CC +CS +Interj +Pron +Num : Open POS's
 
+ * +Symbol = independent symbols in the text stream, like £, €, ©
+
 !!Verbal MSP
 
  * +Prs +Prt +Prf 				
@@ -70,7 +72,4 @@ these flags. There exists a ready-made regex that will do the actual down-casing
 given the proper use of these flags.
  | @U.Cap.Obl@ | Allowing downcasing of derived names: deatnulasj.
  | @U.Cap.Opt@ | Allowing downcasing of derived names: deatnulasj.
-
-
-
 
