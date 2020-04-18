@@ -1,0 +1,59 @@
+!Distributed under the terms of the GNU General Public License version 2
+! or any later version.
+
+! =================================================== !
+! Fil for å generere dei morfofonologiske reglane til !
+!            den rumenske analysatoren vår            !
+! =================================================== !
+
+echo << Vi definerer vokalane >>
+
+
+define Vow [ a | ă | â | e | i | î | o | u | y ] ;
+
+echo << Vi definerer konsonantane >>
+
+define Cns [ b | c | d | f | g | h | j | k | l |
+             m | n | p | q | r | s | ș | t | ț | v | 
+             w | x | z |
+             ş | ţ ] ; ! Last line is Turkish
+
+echo << Vi definerer vokalvekslingar i verbbøyinga >> 
+
+
+define EA e -> ă || _ Cns* %^EA ;
+
+define AA ă -> a || _ Cns* %^AA ;
+
+define OA o -> o a || _ Cns* %^OA ;
+
+define PenultimaRule ă -> a || _ Cns* ( %> [ i | e ]) .#. ;
+             
+define Dummy [ %> | %^AA | %^EA | %^OA ] ;            
+             
+
+define StemVowelDeletion [ a | e | u | ă ] -> 0 || Vow Cns* _ %> Vow ;
+! codru -> pl. codri
+
+echo << Vi definerer konsonantvekslingane >>
+
+define ti t -> ț || [?* - s ] _ %> i ;
+define sti s -> ș || _ t %> i ;
+define Ci d -> z, s -> ș, z -> j, l -> 0, n -> 0 || _ %> i ;
+
+echo << Vi slettar alle dummy-symbolane >>
+
+define DummyDeletion Dummy -> 0 ;
+ 
+
+echo << Vi sett saman reglane >>
+
+read regex [ EA
+.o. AA
+.o. OA
+.o. StemVowelDeletion
+.o. ti
+.o. sti
+.o. Ci
+.o. PenultimaRule
+.o. DummyDeletion ] ;            
