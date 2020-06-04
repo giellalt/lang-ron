@@ -1,0 +1,9 @@
+name = "Romanian"
+version = "0.1.0"
+
+[macos]
+system_pkg_id = "no.divvun.MacDivvun.ro"
+
+[windows]
+system_product_code = "745D2420-FB19-4BD7-8AD8-A1979B024F25"
+msoffice_product_code = "7000C4ED-60C8-4B2E-A4D8-AA8EAAFE5858"
