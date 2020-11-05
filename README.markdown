@@ -21,7 +21,7 @@ Documentation
 
 Documentation can be found at:
 
--   <https://giellalt.uit.no/lang/rondoc/index.html>
+-   <https://giellalt.uit.no/lang/ron/RomanianDocumentation.html>
 -   <https://giellalt.uit.no/index.html>
 
 Core dependencies
