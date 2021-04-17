@@ -18,7 +18,7 @@
 
 
 ! ======================
-!! !!!Sublexica for Verb
+!! # Sublexica for Verb
 ! ======================
 
 
@@ -83,6 +83,7 @@ LEXICON Conj2a
                       +V+Prs:     Pl2Prs_eti ; !vedeți
                       +V+Prs:%^EA Pl3Prs     ; !văd
 ! define ea e -> ă || _ Cns*      %^EA       ;
+!! | --- 
 
 LEXICON Conj2b
                           +V:     Inf2       ; !tăcea
@@ -93,6 +94,7 @@ LEXICON Conj2b
                       +V+Prs:     Pl2Prs_eti ; !tăceți
                       +V+Prs:%^AA Pl3Prs     ; !tac
 ! define aa ă -> a || _ Cns*      %^AA       ;
+!! | --- 
 
 
 ! Tredje konjugasjon
@@ -120,6 +122,7 @@ LEXICON Conj4a
  +V+Prs:     Pl2Prs_iți ; !dormiți
  +V+Prs:     Pl3Prs     ; !dorm
 ! define oa o -> o a || _ Cns* %^OA ; (regel i xfst)
+!! | --- 
 
 LEXICON Conj4b
      +V: Inf4        ; !dormi
