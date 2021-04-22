@@ -31,4 +31,5 @@ MD_PAGES=root-morphology.md
 # nouns-affixes.md            \
 # propernouns-affixes.md      \
 # verbs-affixes.md
+
 include $(top_srcdir)/../giella-core/am-shared/docs-dir-include.am
