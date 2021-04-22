@@ -1,0 +1,20 @@
+
+
+
+This is a grammatical analyser for Romanian.
+
+It was made for testing purposes, and is not good enough to
+be used in working programs. It is also hampered by originally
+having been based upon sources using the old orthography.
+
+
+
+----
+
+The structure of the source file catalogue is the same for all
+the languages, it is documented [here|/infra/infraremake/NewinfraCatalogues.html].
+
+
+These pages document how to build the parsers. If you want to know
+how to use them on the command line, read the
+[How to use the morphological parsers|/tools/docu-sme-manual.html] page.
