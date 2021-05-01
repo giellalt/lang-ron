@@ -1,0 +1,34 @@
+
+# Rumanian morphological analyser
+
+
+# Sublexica for Noun
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,1 +1,7 @@
+* [nouns-affixes.md](nouns-affixes.md)
+* [symbols-affixes.md](symbols-affixes.md)
+* [adjectives-affixes.md](adjectives-affixes.md)
+* [verbs-affixes.md](verbs-affixes.md)
 * [root-morphology.md](root-morphology.md)
+* [transcriptor-numbers-digit2text.md](transcriptor-numbers-digit2text.md)
+* [transcriptor-abbrevs2text.md](transcriptor-abbrevs2text.md)

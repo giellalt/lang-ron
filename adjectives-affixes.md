@@ -1,0 +1,7 @@
+
+
+
+# Sublexica for Adjective
+
+
+

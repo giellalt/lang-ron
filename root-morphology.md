@@ -16,22 +16,22 @@ language are presented in this system in terms of the following symbols.
 
 ## Verbal MSP
 
- * +Prs +Prt +Prf 				
- * +Ind +Imp +Conj +Opt +Sbj	
+ * +Prs +Prt +Prf
+ * +Ind +Imp +Conj +Opt +Sbj
  * +Sg1 +Sg2 +Sg3 +Pl1 +Pl2 +Pl3
- * +Inf						
+ * +Inf
 
 
 ## Nominal MSP
 
- * +Msc +Fem +Neu	
+ * +Msc +Fem +Neu
  * +Sg +Pl +Def +ef
- * +Nom +Gen +Voc	
- * +Dem +Pers		
- * +Adc +Ord		
- * +Indef +Def		
+ * +Nom +Gen +Voc
+ * +Dem +Pers
+ * +Adc +Ord
+ * +Indef +Def
 
- * %>			
+ * %>
  * %^AA %^EA %^OA
 
 ## Flag diacritics
