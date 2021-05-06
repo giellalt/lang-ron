@@ -1,4 +1,11 @@
 
+# Symbol affixes
+
+
+
+
+
+
 # Rumanian morphological analyser
 
 
@@ -29,20 +36,6 @@
 
 
 
-
-
-
-
-# Symbol affixes
-
-
-
-
-
-
-
-
-# Sublexica for Adjective
 
 
 
@@ -147,6 +140,13 @@
 
 
 
+
+
+# Sublexica for Adjective
+
+
+
+
 # Rumenian morphological analyser
 
  # Definitions for Multichar_Symbols
@@ -213,6 +213,22 @@ given the proper use of these flags.
 
 
 
+We describe here how abbreviations are in Romanian are read out, e.g.
+for text-to-speech systems.
+
+For example:
+
+ * s.:syntynyt # ;  
+ * os.:omaa% sukua # ;  
+ * v.:vuosi # ;  
+ * v.:vuonna # ;  
+ * esim.:esimerkki # ; 
+ * esim.:esimerkiksi # ; 
+
+
+
+
+
 
 
 
@@ -263,20 +279,4 @@ given the proper use of these flags.
 % kolon% :%:     Root ;
 % sárggis% :%-   Root ; 
 % násti% :%*     Root ; 
-
-
-
-
-We describe here how abbreviations are in Romanian are read out, e.g.
-for text-to-speech systems.
-
-For example:
-
- * s.:syntynyt # ;  
- * os.:omaa% sukua # ;  
- * v.:vuosi # ;  
- * v.:vuonna # ;  
- * esim.:esimerkki # ; 
- * esim.:esimerkiksi # ; 
-
 
