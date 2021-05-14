@@ -1,3 +1,4 @@
+* [functions-cg3-src.md](functions-cg3-src.md)
 * [symbols-affixes-fst-src.md](symbols-affixes-fst-src.md)
 * [nouns-affixes-fst-src.md](nouns-affixes-fst-src.md)
 * [verbs-affixes-fst-src.md](verbs-affixes-fst-src.md)
@@ -5,3 +6,4 @@
 * [root-fst-src.md](root-fst-src.md)
 * [transcriptor-abbrevs2text-transcriptions-src.md](transcriptor-abbrevs2text-transcriptions-src.md)
 * [transcriptor-numbers-digit2text-transcriptions-src.md](transcriptor-numbers-digit2text-transcriptions-src.md)
+* [grammarchecker-grammarcheckers-tools.md](grammarchecker-grammarcheckers-tools.md)
