@@ -606,47 +606,6 @@ These were the set types.
 
 
 
-# Symbol affixes
-
-
-
-
-
-
-# Rumanian morphological analyser
-
-
-# Sublexica for Noun
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 # Sublexica for Verb
@@ -754,6 +713,47 @@ These were the set types.
 
 
 
+# Rumanian morphological analyser
+
+
+# Sublexica for Noun
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Symbol affixes
+
+
+
+
+
+
 # Rumenian morphological analyser
 
  # Definitions for Multichar_Symbols
@@ -820,22 +820,6 @@ given the proper use of these flags.
 
 
 
-We describe here how abbreviations are in Romanian are read out, e.g.
-for text-to-speech systems.
-
-For example:
-
- * s.:syntynyt # ;  
- * os.:omaa% sukua # ;  
- * v.:vuosi # ;  
- * v.:vuonna # ;  
- * esim.:esimerkki # ; 
- * esim.:esimerkiksi # ; 
-
-
-
-
-
 
 
 
@@ -886,6 +870,22 @@ For example:
 % kolon% :%:     Root ;
 % sárggis% :%-   Root ; 
 % násti% :%*     Root ; 
+
+
+
+
+We describe here how abbreviations are in Romanian are read out, e.g.
+for text-to-speech systems.
+
+For example:
+
+ * s.:syntynyt # ;  
+ * os.:omaa% sukua # ;  
+ * v.:vuosi # ;  
+ * v.:vuonna # ;  
+ * esim.:esimerkki # ; 
+ * esim.:esimerkiksi # ; 
+
 
 
       R O M A N I A N   G R A M M A R   C H E C K E R
