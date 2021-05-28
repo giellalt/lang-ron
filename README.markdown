@@ -3,13 +3,13 @@ The Romanian morphology and tools
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-ron)](https://github.com/giellalt/lang-ron/issues)
 [![Build Status](https://github.com/giellalt/lang-ron/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-ron/actions)
-[![License](https://img.shields.io/github/license/giellalt/lang-ron)](https://raw.githubusercontent.com/giellalt/lang-ron/develop/LICENSE)
+[![License](https://img.shields.io/github/license/giellalt/lang-ron)](https://raw.githubusercontent.com/giellalt/lang-ron/main/LICENSE)
 
 This repository contains finite state source files for the Romanian language,
 for building morphological analysers, proofing tools
 and dictionaries. The data and implementation are licenced under __LICENCE__
 licence, also detailed in the
-[LICENCE](https://github.com/giellalt/lang-ron/blob/develop/LICENCE). The
+[LICENSE](https://github.com/giellalt/lang-ron/blob/main/LICENSE). The
 authors named in the AUTHORS file are available to grant other licencing
 choices.
 
@@ -77,7 +77,7 @@ svn checkout https://github.com/giellalt/lang-ron.git/trunk lang-ron
 Building and installation
 -------------------------
 
-[INSTALL](https://github.com/giellalt/lang-ron/blob/develop/INSTALL)
+[INSTALL](https://github.com/giellalt/lang-ron/blob/main/INSTALL)
 describes the GNU build system in detail, but for most users it is the usual:
 
 ```sh
