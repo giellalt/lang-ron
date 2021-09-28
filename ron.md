@@ -642,6 +642,22 @@ These were the set types.
 
 * * *
 <small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-ron/blob/main/../src/fst/affixes/nouns.lexc)</small>
+# Symbol affixes
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-ron/blob/main/../src/fst/affixes/symbols.lexc)</small>
+
+
+# Sublexica for Adjective
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-ron/blob/main/../src/fst/affixes/adjectives.lexc)</small>
 
 
 # Sublexica for Verb
@@ -743,22 +759,6 @@ These were the set types.
 
 * * *
 <small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-ron/blob/main/../src/fst/affixes/verbs.lexc)</small>
-
-
-# Sublexica for Adjective
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-ron/blob/main/../src/fst/affixes/adjectives.lexc)</small>
-# Symbol affixes
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-ron/blob/main/../src/fst/affixes/symbols.lexc)</small>
 # Rumenian morphological analyser
 
  # Definitions for Multichar_Symbols
@@ -826,6 +826,23 @@ given the proper use of these flags.
 <small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-ron/blob/main/../src/fst/root.lexc)</small>
 
 
+We describe here how abbreviations are in Romanian are read out, e.g.
+for text-to-speech systems.
+
+For example:
+
+ * s.:syntynyt # ;  
+ * os.:omaa% sukua # ;  
+ * v.:vuosi # ;  
+ * v.:vuonna # ;  
+ * esim.:esimerkki # ; 
+ * esim.:esimerkiksi # ; 
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/transcriptions/transcriptor-abbrevs2text.lexc](http://github.com/giellalt/lang-ron/blob/main/../src/transcriptions/transcriptor-abbrevs2text.lexc)</small>
+
+
 
 
 
@@ -879,23 +896,6 @@ given the proper use of these flags.
 
 * * *
 <small>This (part of) documentation was generated from [../src/transcriptions/transcriptor-numbers-digit2text.lexc](http://github.com/giellalt/lang-ron/blob/main/../src/transcriptions/transcriptor-numbers-digit2text.lexc)</small>
-
-
-We describe here how abbreviations are in Romanian are read out, e.g.
-for text-to-speech systems.
-
-For example:
-
- * s.:syntynyt # ;  
- * os.:omaa% sukua # ;  
- * v.:vuosi # ;  
- * v.:vuonna # ;  
- * esim.:esimerkki # ; 
- * esim.:esimerkiksi # ; 
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/transcriptions/transcriptor-abbrevs2text.lexc](http://github.com/giellalt/lang-ron/blob/main/../src/transcriptions/transcriptor-abbrevs2text.lexc)</small>
 R O M A N I A N   G R A M M A R   C H E C K E R
 
 
