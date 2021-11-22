@@ -607,57 +607,6 @@ These were the set types.
 
 * * *
 <small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-ron/blob/main/../src/cg3/functions.cg3)</small>
-# Rumanian morphological analyser
-
-
-# Sublexica for Noun
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-ron/blob/main/../src/fst/affixes/nouns.lexc)</small>
-# Symbol affixes
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-ron/blob/main/../src/fst/affixes/symbols.lexc)</small>
-
-
-# Sublexica for Adjective
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-ron/blob/main/../src/fst/affixes/adjectives.lexc)</small>
 
 
 # Sublexica for Verb
@@ -759,6 +708,57 @@ These were the set types.
 
 * * *
 <small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-ron/blob/main/../src/fst/affixes/verbs.lexc)</small>
+# Rumanian morphological analyser
+
+
+# Sublexica for Noun
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-ron/blob/main/../src/fst/affixes/nouns.lexc)</small>
+# Symbol affixes
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-ron/blob/main/../src/fst/affixes/symbols.lexc)</small>
+
+
+# Sublexica for Adjective
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-ron/blob/main/../src/fst/affixes/adjectives.lexc)</small>
 # Rumenian morphological analyser
 
  # Definitions for Multichar_Symbols
