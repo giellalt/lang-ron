@@ -6,6 +6,10 @@
 [![Build status](https://github.com/giellalt/lang-ron/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-ron/actions)
 
 This page documents the work on the **Romanian language model**. 
+It was made for testing purposes and has a lexicon of
+appr. 2500 stems. It is not good enough to
+be used in working programs and is also hampered by originally
+having been based upon sources using the old orthography.
 
 # Project documentation
 
