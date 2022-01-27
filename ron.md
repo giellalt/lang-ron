@@ -680,49 +680,6 @@ given the proper use of these flags.
 
 * * *
 <small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-ron/blob/main/../src/fst/affixes/symbols.lexc)</small>
-# Rumanian morphological analyser
-
-
-# Sublexica for Noun
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-ron/blob/main/../src/fst/affixes/nouns.lexc)</small>
-
-
-# Sublexica for Adjective
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-ron/blob/main/../src/fst/affixes/adjectives.lexc)</small>
 
 
 # Sublexica for Verb
@@ -824,6 +781,49 @@ given the proper use of these flags.
 
 * * *
 <small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-ron/blob/main/../src/fst/affixes/verbs.lexc)</small>
+
+
+# Sublexica for Adjective
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-ron/blob/main/../src/fst/affixes/adjectives.lexc)</small>
+# Rumanian morphological analyser
+
+
+# Sublexica for Noun
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-ron/blob/main/../src/fst/affixes/nouns.lexc)</small>
 
 
 We describe here how abbreviations are in Romanian are read out, e.g.
