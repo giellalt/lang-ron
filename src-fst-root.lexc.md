@@ -21,7 +21,6 @@ language are presented in this system in terms of the following symbols.
 * +Sg1 +Sg2 +Sg3 +Pl1 +Pl2 +Pl3
 * +Inf
 
-
 ## Nominal MSP
 
 * +Msc +Fem +Neu
@@ -63,4 +62,8 @@ given the proper use of these flags.
 |  @U.Cap.Opt@ | Allowing downcasing of derived names: deatnulasj.
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-ron/blob/main/../src/fst/root.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/root.lexc](https://github.com/giellalt/lang-ron/blob/main/src/fst/root.lexc)</small>
+
+---
+
