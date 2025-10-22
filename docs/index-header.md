@@ -5,7 +5,6 @@
 [![License](https://img.shields.io/github/license/giellalt/lang-ron)](https://github.com/giellalt/lang-ron/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-ron)](https://github.com/giellalt/lang-ron/issues)
 [![Build Status](https://builds.giellalt.org/api/badge/lang-ron?label=CI)](https://builds.giellalt.org/pipelines/lang-ron/builds/latest)
-[![Glottolog](https://img.shields.io/badge/Glottolog-green)](https://glottolog.org/resource/languoid/id/__GLOTTOLOG_ID__)
 
 This page documents the work on the **Romanian language model**. 
 It was made for testing purposes and has a lexicon of
