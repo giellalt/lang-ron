@@ -4,7 +4,7 @@
 ![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-ron%2Fgh-pages%2Flemmacount.json)
 [![License](https://img.shields.io/github/license/giellalt/lang-ron)](https://github.com/giellalt/lang-ron/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-ron)](https://github.com/giellalt/lang-ron/issues)
-[![Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-ron/main/badge.svg)](https://github.com/giellalt/lang-ron/actions)
+[![Build Status](https://builds.giellalt.org/api/badge/lang-ron?label=CI)](https://builds.giellalt.org/pipelines/lang-ron/builds/latest)
 
 This page documents the work on the **Romanian language model**. 
 It was made for testing purposes and has a lexicon of
