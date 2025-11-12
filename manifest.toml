@@ -1,6 +1,3 @@
-spellername = "Romanian"
-spellerversion = "0.1.1"
-
 # Name of the speller package in various languages.
 # The default is English + autonym:
 [speller.name]
@@ -22,3 +19,15 @@ legacy_product_codes = [
     { value = "745D2420-FB19-4BD7-8AD8-A1979B024F25", kind = "nsis" },
     { value = "7000C4ED-60C8-4B2E-A4D8-AA8EAAFE5858", kind = "nsis" }
 ]
+
+[package.speller]
+name = "Romanian"
+version = "0.1.1"
+
+[package.grammar]
+name = "Romanian"
+version = "0.1.0"
+
+[package.tts-text-proc]
+name = "Romanian"
+version = "0.1.0"
